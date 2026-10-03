@@ -1,0 +1,721 @@
+Season,Round,Race,Circuit,Country,Driver,Constructor,Grid_Position,Qualifying_Position,Finish_Position,Points,Laps_Completed,Fastest_Lap_Time_sec,Pit_Stops,Avg_Pit_Stop_Duration_sec,Status,Positions_Gained,Qualifying_Time_sec,Is_DNF,Is_Podium,Is_Win
+2022,1,Bahrain GP,Bahrain International Circuit,Bahrain,Lewis Hamilton,Mercedes,1,3,1,25.0,50,88.079,0,0.0,Finished,0.0,88.632,False,True,True
+2022,1,Bahrain GP,Bahrain International Circuit,Bahrain,Sergio Perez,Red Bull,2,1,3,15.0,56,89.706,2,24.855,Finished,-1.0,88.298,False,True,False
+2022,1,Bahrain GP,Bahrain International Circuit,Bahrain,Max Verstappen,Red Bull,3,3,2,18.0,57,88.588,3,22.036,Finished,1.0,88.512,False,True,False
+2022,1,Bahrain GP,Bahrain International Circuit,Bahrain,George Russell,Mercedes,4,3,4,12.0,59,88.568,0,0.0,Finished,0.0,88.817,False,False,False
+2022,1,Bahrain GP,Bahrain International Circuit,Bahrain,Charles Leclerc,Ferrari,5,6,DNF,0.0,44,87.96,2,26.789,Mechanical,,89.058,True,False,False
+2022,1,Bahrain GP,Bahrain International Circuit,Bahrain,Carlos Sainz,Ferrari,6,6,10,1.0,59,88.322,2,22.733,Finished,-4.0,89.26,False,False,False
+2022,1,Bahrain GP,Bahrain International Circuit,Bahrain,Lando Norris,McLaren,7,7,10,1.0,53,87.45,0,0.0,Finished,-3.0,89.31,False,False,False
+2022,1,Bahrain GP,Bahrain International Circuit,Bahrain,Oscar Piastri,McLaren,8,9,8,4.0,54,88.419,2,22.044,Finished,0.0,89.903,False,False,False
+2022,1,Bahrain GP,Bahrain International Circuit,Bahrain,Fernando Alonso,Aston Martin,9,10,DNF,0.0,43,88.148,1,24.482,Mechanical,,90.288,True,False,False
+2022,1,Bahrain GP,Bahrain International Circuit,Bahrain,Lance Stroll,Aston Martin,10,9,9,2.0,52,87.234,0,0.0,Finished,1.0,89.966,False,False,False
+2022,1,Bahrain GP,Bahrain International Circuit,Bahrain,Nico Hulkenberg,Haas,11,13,7,6.0,54,88.716,3,23.048,Finished,4.0,90.697,False,False,False
+2022,1,Bahrain GP,Bahrain International Circuit,Bahrain,Pierre Gasly,Alpine,12,12,10,1.0,51,88.926,1,20.319,Finished,2.0,90.329,False,False,False
+2022,1,Bahrain GP,Bahrain International Circuit,Bahrain,Daniel Ricciardo,RB,13,13,11,0.0,57,89.901,1,23.894,Finished,2.0,90.864,False,False,False
+2022,1,Bahrain GP,Bahrain International Circuit,Bahrain,Alex Albon,Williams,14,13,DNF,0.0,14,89.897,1,21.462,Mechanical,,90.924,True,False,False
+2022,1,Bahrain GP,Bahrain International Circuit,Bahrain,Esteban Ocon,Alpine,15,15,9,2.0,56,87.497,2,27.893,Finished,6.0,91.26,False,False,False
+2022,1,Bahrain GP,Bahrain International Circuit,Bahrain,Yuki Tsunoda,RB,16,16,17,0.0,51,88.901,1,22.153,Finished,-1.0,91.136,False,False,False
+2022,1,Bahrain GP,Bahrain International Circuit,Bahrain,Zhou Guanyu,Sauber,17,19,DNS,0.0,5,88.123,0,0.0,Did not start,,92.151,True,False,False
+2022,1,Bahrain GP,Bahrain International Circuit,Bahrain,Valtteri Bottas,Sauber,18,19,17,0.0,58,89.637,1,21.377,Finished,1.0,92.203,False,False,False
+2022,1,Bahrain GP,Bahrain International Circuit,Bahrain,Logan Sargeant,Williams,19,20,20,0.0,53,88.123,2,23.41,Finished,-1.0,92.551,False,False,False
+2022,1,Bahrain GP,Bahrain International Circuit,Bahrain,Kevin Magnussen,Haas,20,18,20,0.0,55,88.042,4,23.983,Finished,0.0,91.739,False,False,False
+2022,2,Saudi Arabian GP,Jeddah Corniche Circuit,Saudi Arabia,Max Verstappen,Red Bull,1,1,3,15.0,60,87.468,1,22.765,Finished,-2.0,88.211,False,True,False
+2022,2,Saudi Arabian GP,Jeddah Corniche Circuit,Saudi Arabia,George Russell,Mercedes,2,1,1,25.0,59,88.154,3,21.969,Finished,1.0,88.133,False,True,True
+2022,2,Saudi Arabian GP,Jeddah Corniche Circuit,Saudi Arabia,Lando Norris,McLaren,3,4,DNF,0.0,12,88.368,2,21.623,Mechanical,,88.685,True,False,False
+2022,2,Saudi Arabian GP,Jeddah Corniche Circuit,Saudi Arabia,Lewis Hamilton,Mercedes,4,5,1,25.0,56,89.304,2,23.142,Finished,3.0,89.157,False,True,True
+2022,2,Saudi Arabian GP,Jeddah Corniche Circuit,Saudi Arabia,Charles Leclerc,Ferrari,5,4,3,15.0,51,88.129,2,20.668,Finished,2.0,89.082,False,True,False
+2022,2,Saudi Arabian GP,Jeddah Corniche Circuit,Saudi Arabia,Sergio Perez,Red Bull,6,4,13,0.0,60,87.824,0,0.0,Finished,-7.0,88.669,False,False,False
+2022,2,Saudi Arabian GP,Jeddah Corniche Circuit,Saudi Arabia,Carlos Sainz,Ferrari,7,5,3,15.0,60,88.526,1,20.475,Finished,4.0,89.24,False,True,False
+2022,2,Saudi Arabian GP,Jeddah Corniche Circuit,Saudi Arabia,Alex Albon,Williams,8,6,DNF,0.0,14,89.154,2,23.617,Mechanical,,89.22,True,False,False
+2022,2,Saudi Arabian GP,Jeddah Corniche Circuit,Saudi Arabia,Esteban Ocon,Alpine,9,7,6,8.0,55,90.17,1,21.821,Finished,3.0,89.522,False,False,False
+2022,2,Saudi Arabian GP,Jeddah Corniche Circuit,Saudi Arabia,Oscar Piastri,McLaren,10,8,11,0.0,59,88.497,1,25.54,Finished,-1.0,89.974,False,False,False
+2022,2,Saudi Arabian GP,Jeddah Corniche Circuit,Saudi Arabia,Fernando Alonso,Aston Martin,11,13,6,8.0,53,88.539,1,22.946,Finished,5.0,90.907,False,False,False
+2022,2,Saudi Arabian GP,Jeddah Corniche Circuit,Saudi Arabia,Lance Stroll,Aston Martin,12,12,18,0.0,59,88.632,1,19.635,Finished,-6.0,90.597,False,False,False
+2022,2,Saudi Arabian GP,Jeddah Corniche Circuit,Saudi Arabia,Daniel Ricciardo,RB,13,12,20,0.0,53,88.454,2,26.36,Finished,-7.0,90.795,False,False,False
+2022,2,Saudi Arabian GP,Jeddah Corniche Circuit,Saudi Arabia,Pierre Gasly,Alpine,14,13,20,0.0,58,89.908,3,21.966,Finished,-6.0,90.939,False,False,False
+2022,2,Saudi Arabian GP,Jeddah Corniche Circuit,Saudi Arabia,Logan Sargeant,Williams,15,16,10,1.0,56,89.678,0,0.0,Finished,5.0,91.486,False,False,False
+2022,2,Saudi Arabian GP,Jeddah Corniche Circuit,Saudi Arabia,Nico Hulkenberg,Haas,16,18,19,0.0,55,88.121,4,20.824,Finished,-3.0,91.948,False,False,False
+2022,2,Saudi Arabian GP,Jeddah Corniche Circuit,Saudi Arabia,Yuki Tsunoda,RB,17,17,18,0.0,51,86.982,3,19.0,Finished,-1.0,91.85,False,False,False
+2022,2,Saudi Arabian GP,Jeddah Corniche Circuit,Saudi Arabia,Valtteri Bottas,Sauber,18,16,20,0.0,58,89.176,2,25.851,Finished,-2.0,91.786,False,False,False
+2022,2,Saudi Arabian GP,Jeddah Corniche Circuit,Saudi Arabia,Zhou Guanyu,Sauber,19,18,20,0.0,56,88.789,0,0.0,Finished,-1.0,91.805,False,False,False
+2022,2,Saudi Arabian GP,Jeddah Corniche Circuit,Saudi Arabia,Kevin Magnussen,Haas,20,20,20,0.0,56,90.111,3,23.525,Finished,0.0,92.377,False,False,False
+2022,3,Australian GP,Albert Park Circuit,Australia,Lando Norris,McLaren,1,3,1,25.0,58,88.404,0,0.0,Finished,0.0,88.786,False,True,True
+2022,3,Australian GP,Albert Park Circuit,Australia,Max Verstappen,Red Bull,2,1,4,12.0,52,88.248,0,0.0,Finished,-2.0,88.188,False,False,False
+2022,3,Australian GP,Albert Park Circuit,Australia,Sergio Perez,Red Bull,3,1,5,10.0,60,88.722,2,19.0,Finished,-2.0,88.199,False,False,False
+2022,3,Australian GP,Albert Park Circuit,Australia,George Russell,Mercedes,4,6,7,6.0,60,89.217,1,21.807,Finished,-3.0,89.356,False,False,False
+2022,3,Australian GP,Albert Park Circuit,Australia,Charles Leclerc,Ferrari,5,6,4,12.0,55,87.572,0,0.0,Finished,1.0,89.337,False,False,False
+2022,3,Australian GP,Albert Park Circuit,Australia,Carlos Sainz,Ferrari,6,5,2,18.0,50,89.491,1,21.211,Finished,4.0,89.245,False,True,False
+2022,3,Australian GP,Albert Park Circuit,Australia,Nico Hulkenberg,Haas,7,8,DNS,0.0,27,88.546,0,0.0,Did not start,,89.927,True,False,False
+2022,3,Australian GP,Albert Park Circuit,Australia,Fernando Alonso,Aston Martin,8,9,5,10.0,55,88.746,0,0.0,Finished,3.0,89.946,False,False,False
+2022,3,Australian GP,Albert Park Circuit,Australia,Pierre Gasly,Alpine,9,9,7,6.0,54,88.351,1,23.211,Finished,2.0,90.172,False,False,False
+2022,3,Australian GP,Albert Park Circuit,Australia,Lewis Hamilton,Mercedes,10,8,18,0.0,51,88.52,1,24.233,Finished,-8.0,89.772,False,False,False
+2022,3,Australian GP,Albert Park Circuit,Australia,Alex Albon,Williams,11,11,12,0.0,51,87.245,1,22.855,Finished,-1.0,90.134,False,False,False
+2022,3,Australian GP,Albert Park Circuit,Australia,Oscar Piastri,McLaren,12,12,16,0.0,51,87.995,2,22.754,Finished,-4.0,90.703,False,False,False
+2022,3,Australian GP,Albert Park Circuit,Australia,Yuki Tsunoda,RB,13,14,8,4.0,55,88.867,4,21.785,Finished,5.0,91.548,False,False,False
+2022,3,Australian GP,Albert Park Circuit,Australia,Lance Stroll,Aston Martin,14,14,10,1.0,54,88.999,1,22.87,Finished,4.0,91.19,False,False,False
+2022,3,Australian GP,Albert Park Circuit,Australia,Logan Sargeant,Williams,15,14,13,0.0,58,88.548,3,21.917,Finished,2.0,90.75,False,False,False
+2022,3,Australian GP,Albert Park Circuit,Australia,Esteban Ocon,Alpine,16,18,4,12.0,55,88.926,1,20.066,Finished,12.0,92.396,False,False,False
+2022,3,Australian GP,Albert Park Circuit,Australia,Daniel Ricciardo,RB,17,15,17,0.0,53,88.958,0,0.0,Finished,0.0,91.442,False,False,False
+2022,3,Australian GP,Albert Park Circuit,Australia,Kevin Magnussen,Haas,18,20,20,0.0,60,88.334,1,26.588,Finished,-2.0,92.225,False,False,False
+2022,3,Australian GP,Albert Park Circuit,Australia,Valtteri Bottas,Sauber,19,20,20,0.0,59,90.074,0,0.0,Finished,-1.0,92.446,False,False,False
+2022,3,Australian GP,Albert Park Circuit,Australia,Zhou Guanyu,Sauber,20,18,18,0.0,60,89.378,2,21.77,Finished,2.0,91.678,False,False,False
+2022,4,Japanese GP,Suzuka Circuit,Japan,Max Verstappen,Red Bull,1,2,2,18.0,56,88.775,0,0.0,Finished,-1.0,88.302,False,True,False
+2022,4,Japanese GP,Suzuka Circuit,Japan,Sergio Perez,Red Bull,2,2,DNS,0.0,39,87.014,0,0.0,Did not start,,88.474,True,False,False
+2022,4,Japanese GP,Suzuka Circuit,Japan,Lewis Hamilton,Mercedes,3,4,1,25.0,55,89.402,3,20.956,Finished,2.0,88.618,False,True,True
+2022,4,Japanese GP,Suzuka Circuit,Japan,Carlos Sainz,Ferrari,4,2,1,25.0,50,87.318,4,27.507,Finished,3.0,88.8,False,True,True
+2022,4,Japanese GP,Suzuka Circuit,Japan,Charles Leclerc,Ferrari,5,3,3,15.0,50,87.882,2,19.595,Finished,2.0,88.429,False,True,False
+2022,4,Japanese GP,Suzuka Circuit,Japan,Oscar Piastri,McLaren,6,4,3,15.0,57,87.823,2,19.792,Finished,3.0,88.767,False,True,False
+2022,4,Japanese GP,Suzuka Circuit,Japan,George Russell,Mercedes,7,8,DNF,0.0,51,88.735,3,22.149,Mechanical,,89.504,True,False,False
+2022,4,Japanese GP,Suzuka Circuit,Japan,Lando Norris,McLaren,8,6,6,8.0,54,87.835,0,0.0,Finished,2.0,89.368,False,False,False
+2022,4,Japanese GP,Suzuka Circuit,Japan,Nico Hulkenberg,Haas,9,10,7,6.0,56,87.19,2,19.239,Finished,2.0,90.013,False,False,False
+2022,4,Japanese GP,Suzuka Circuit,Japan,Fernando Alonso,Aston Martin,10,12,9,2.0,56,88.935,1,25.038,Finished,1.0,90.44,False,False,False
+2022,4,Japanese GP,Suzuka Circuit,Japan,Pierre Gasly,Alpine,11,11,11,0.0,58,89.061,3,22.641,Finished,0.0,90.394,False,False,False
+2022,4,Japanese GP,Suzuka Circuit,Japan,Esteban Ocon,Alpine,12,11,11,0.0,51,89.04,0,0.0,Finished,1.0,90.221,False,False,False
+2022,4,Japanese GP,Suzuka Circuit,Japan,Alex Albon,Williams,13,12,13,0.0,59,87.531,2,23.321,Finished,0.0,90.582,False,False,False
+2022,4,Japanese GP,Suzuka Circuit,Japan,Yuki Tsunoda,RB,14,16,7,6.0,59,86.776,2,20.603,Finished,7.0,91.426,False,False,False
+2022,4,Japanese GP,Suzuka Circuit,Japan,Lance Stroll,Aston Martin,15,17,16,0.0,53,88.815,3,26.254,Finished,-1.0,91.809,False,False,False
+2022,4,Japanese GP,Suzuka Circuit,Japan,Daniel Ricciardo,RB,16,14,14,0.0,55,89.824,3,25.595,Finished,2.0,91.222,False,False,False
+2022,4,Japanese GP,Suzuka Circuit,Japan,Valtteri Bottas,Sauber,17,15,13,0.0,53,88.177,1,25.949,Finished,4.0,90.882,False,False,False
+2022,4,Japanese GP,Suzuka Circuit,Japan,Zhou Guanyu,Sauber,18,17,DNF,0.0,36,88.168,0,0.0,Mechanical,,91.929,True,False,False
+2022,4,Japanese GP,Suzuka Circuit,Japan,Kevin Magnussen,Haas,19,19,18,0.0,52,89.526,1,23.036,Finished,1.0,92.178,False,False,False
+2022,4,Japanese GP,Suzuka Circuit,Japan,Logan Sargeant,Williams,20,20,13,0.0,54,88.033,1,19.0,Finished,7.0,92.337,False,False,False
+2022,5,Chinese GP,Shanghai International Circuit,China,Max Verstappen,Red Bull,1,3,1,25.0,53,88.487,2,22.842,Finished,0.0,88.984,False,True,True
+2022,5,Chinese GP,Shanghai International Circuit,China,Sergio Perez,Red Bull,2,4,10,1.0,60,87.409,2,26.249,Finished,-8.0,89.084,False,False,False
+2022,5,Chinese GP,Shanghai International Circuit,China,George Russell,Mercedes,3,1,6,8.0,59,87.062,0,0.0,Finished,-3.0,88.281,False,False,False
+2022,5,Chinese GP,Shanghai International Circuit,China,Lando Norris,McLaren,4,5,1,25.0,59,89.319,2,23.946,Finished,3.0,89.411,False,True,True
+2022,5,Chinese GP,Shanghai International Circuit,China,Lewis Hamilton,Mercedes,5,5,6,8.0,58,88.362,0,0.0,Finished,-1.0,88.866,False,False,False
+2022,5,Chinese GP,Shanghai International Circuit,China,Carlos Sainz,Ferrari,6,4,9,2.0,54,88.233,2,21.859,Finished,-3.0,88.925,False,False,False
+2022,5,Chinese GP,Shanghai International Circuit,China,Charles Leclerc,Ferrari,7,8,9,2.0,53,88.108,1,25.757,Finished,-2.0,89.438,False,False,False
+2022,5,Chinese GP,Shanghai International Circuit,China,Fernando Alonso,Aston Martin,8,8,4,12.0,52,88.784,4,23.978,Finished,4.0,89.822,False,False,False
+2022,5,Chinese GP,Shanghai International Circuit,China,Oscar Piastri,McLaren,9,9,DNF,0.0,22,87.829,2,24.101,Mechanical,,89.889,True,False,False
+2022,5,Chinese GP,Shanghai International Circuit,China,Nico Hulkenberg,Haas,10,8,8,4.0,57,87.413,2,23.241,Finished,2.0,89.551,False,False,False
+2022,5,Chinese GP,Shanghai International Circuit,China,Esteban Ocon,Alpine,11,12,1,25.0,55,87.754,3,26.64,Finished,10.0,90.921,False,True,True
+2022,5,Chinese GP,Shanghai International Circuit,China,Daniel Ricciardo,RB,12,14,10,1.0,52,90.015,2,30.493,Finished,2.0,91.086,False,False,False
+2022,5,Chinese GP,Shanghai International Circuit,China,Pierre Gasly,Alpine,13,14,10,1.0,50,88.233,0,0.0,Finished,3.0,91.015,False,False,False
+2022,5,Chinese GP,Shanghai International Circuit,China,Valtteri Bottas,Sauber,14,12,15,0.0,58,89.219,2,20.327,Finished,-1.0,90.701,False,False,False
+2022,5,Chinese GP,Shanghai International Circuit,China,Alex Albon,Williams,15,14,15,0.0,53,87.793,1,23.398,Finished,0.0,91.23,False,False,False
+2022,5,Chinese GP,Shanghai International Circuit,China,Lance Stroll,Aston Martin,16,18,DNF,0.0,9,87.081,0,0.0,Mechanical,,91.971,True,False,False
+2022,5,Chinese GP,Shanghai International Circuit,China,Yuki Tsunoda,RB,17,18,16,0.0,53,88.869,3,24.136,Finished,1.0,91.955,False,False,False
+2022,5,Chinese GP,Shanghai International Circuit,China,Logan Sargeant,Williams,18,16,16,0.0,54,88.175,1,23.585,Finished,2.0,91.213,False,False,False
+2022,5,Chinese GP,Shanghai International Circuit,China,Zhou Guanyu,Sauber,19,19,20,0.0,54,89.259,1,23.726,Finished,-1.0,92.025,False,False,False
+2022,5,Chinese GP,Shanghai International Circuit,China,Kevin Magnussen,Haas,20,20,20,0.0,56,88.831,0,0.0,Finished,0.0,92.771,False,False,False
+2022,6,Miami GP,Miami International Autodrome,USA,Sergio Perez,Red Bull,1,1,1,25.0,53,88.974,1,24.797,Finished,0.0,88.301,False,True,True
+2022,6,Miami GP,Miami International Autodrome,USA,Max Verstappen,Red Bull,2,1,1,25.0,59,88.259,1,26.141,Finished,1.0,88.376,False,True,True
+2022,6,Miami GP,Miami International Autodrome,USA,Charles Leclerc,Ferrari,3,1,1,25.0,57,88.487,2,24.551,Finished,2.0,87.692,False,True,True
+2022,6,Miami GP,Miami International Autodrome,USA,Lewis Hamilton,Mercedes,4,3,1,25.0,60,90.082,2,23.788,Finished,3.0,88.573,False,True,True
+2022,6,Miami GP,Miami International Autodrome,USA,George Russell,Mercedes,5,3,4,12.0,58,88.208,0,0.0,Finished,1.0,88.414,False,False,False
+2022,6,Miami GP,Miami International Autodrome,USA,Carlos Sainz,Ferrari,6,4,6,8.0,54,88.367,2,25.93,Finished,0.0,88.861,False,False,False
+2022,6,Miami GP,Miami International Autodrome,USA,Pierre Gasly,Alpine,7,7,1,25.0,50,87.452,0,0.0,Finished,6.0,89.623,False,True,True
+2022,6,Miami GP,Miami International Autodrome,USA,Lando Norris,McLaren,8,6,9,2.0,56,88.548,4,26.754,Finished,-1.0,89.067,False,False,False
+2022,6,Miami GP,Miami International Autodrome,USA,Oscar Piastri,McLaren,9,9,14,0.0,54,88.875,2,23.37,Finished,-5.0,90.043,False,False,False
+2022,6,Miami GP,Miami International Autodrome,USA,Fernando Alonso,Aston Martin,10,10,8,4.0,55,88.755,3,20.783,Finished,2.0,90.201,False,False,False
+2022,6,Miami GP,Miami International Autodrome,USA,Alex Albon,Williams,11,13,9,2.0,60,88.034,0,0.0,Finished,2.0,90.672,False,False,False
+2022,6,Miami GP,Miami International Autodrome,USA,Nico Hulkenberg,Haas,12,11,10,1.0,53,89.237,0,0.0,Finished,2.0,90.481,False,False,False
+2022,6,Miami GP,Miami International Autodrome,USA,Daniel Ricciardo,RB,13,15,4,12.0,58,88.727,1,26.113,Finished,9.0,90.908,False,False,False
+2022,6,Miami GP,Miami International Autodrome,USA,Lance Stroll,Aston Martin,14,12,12,0.0,55,88.499,3,21.399,Finished,2.0,90.545,False,False,False
+2022,6,Miami GP,Miami International Autodrome,USA,Yuki Tsunoda,RB,15,16,17,0.0,54,88.056,4,20.47,Finished,-2.0,91.383,False,False,False
+2022,6,Miami GP,Miami International Autodrome,USA,Esteban Ocon,Alpine,16,15,16,0.0,56,88.934,1,22.496,Finished,0.0,91.321,False,False,False
+2022,6,Miami GP,Miami International Autodrome,USA,Logan Sargeant,Williams,17,15,14,0.0,54,89.141,1,23.067,Finished,3.0,91.107,False,False,False
+2022,6,Miami GP,Miami International Autodrome,USA,Valtteri Bottas,Sauber,18,20,17,0.0,54,89.07,2,26.658,Finished,1.0,92.236,False,False,False
+2022,6,Miami GP,Miami International Autodrome,USA,Kevin Magnussen,Haas,19,20,DNF,0.0,34,89.083,1,20.104,Mechanical,,92.411,True,False,False
+2022,6,Miami GP,Miami International Autodrome,USA,Zhou Guanyu,Sauber,20,20,19,0.0,55,89.496,4,24.588,Finished,1.0,92.402,False,False,False
+2022,7,Emilia-Romagna GP,Imola Circuit,Italy,Max Verstappen,Red Bull,1,1,1,25.0,55,87.538,1,22.906,Finished,0.0,88.221,False,True,True
+2022,7,Emilia-Romagna GP,Imola Circuit,Italy,Lando Norris,McLaren,2,1,1,25.0,50,87.629,2,23.137,Finished,1.0,87.842,False,True,True
+2022,7,Emilia-Romagna GP,Imola Circuit,Italy,Lewis Hamilton,Mercedes,3,4,3,15.0,53,88.403,1,19.097,Finished,0.0,88.864,False,True,False
+2022,7,Emilia-Romagna GP,Imola Circuit,Italy,Fernando Alonso,Aston Martin,4,2,4,12.0,60,88.212,0,0.0,Finished,0.0,88.525,False,False,False
+2022,7,Emilia-Romagna GP,Imola Circuit,Italy,Sergio Perez,Red Bull,5,7,5,10.0,57,87.679,1,23.503,Finished,0.0,89.589,False,False,False
+2022,7,Emilia-Romagna GP,Imola Circuit,Italy,Carlos Sainz,Ferrari,6,4,1,25.0,54,87.928,1,21.333,Finished,5.0,88.666,False,True,True
+2022,7,Emilia-Romagna GP,Imola Circuit,Italy,Charles Leclerc,Ferrari,7,8,17,0.0,54,87.927,2,21.305,Finished,-10.0,89.686,False,False,False
+2022,7,Emilia-Romagna GP,Imola Circuit,Italy,George Russell,Mercedes,8,8,1,25.0,53,88.675,1,25.38,Finished,7.0,89.787,False,True,True
+2022,7,Emilia-Romagna GP,Imola Circuit,Italy,Oscar Piastri,McLaren,9,7,11,0.0,53,88.063,1,23.19,Finished,-2.0,89.292,False,False,False
+2022,7,Emilia-Romagna GP,Imola Circuit,Italy,Lance Stroll,Aston Martin,10,12,14,0.0,59,89.95,1,21.462,Finished,-4.0,90.775,False,False,False
+2022,7,Emilia-Romagna GP,Imola Circuit,Italy,Nico Hulkenberg,Haas,11,10,6,8.0,54,89.315,0,0.0,Finished,5.0,90.112,False,False,False
+2022,7,Emilia-Romagna GP,Imola Circuit,Italy,Yuki Tsunoda,RB,12,11,9,2.0,53,90.411,1,22.424,Finished,3.0,90.262,False,False,False
+2022,7,Emilia-Romagna GP,Imola Circuit,Italy,Pierre Gasly,Alpine,13,11,10,1.0,57,87.242,1,26.415,Finished,3.0,90.172,False,False,False
+2022,7,Emilia-Romagna GP,Imola Circuit,Italy,Daniel Ricciardo,RB,14,14,19,0.0,57,88.024,1,22.231,Finished,-5.0,91.221,False,False,False
+2022,7,Emilia-Romagna GP,Imola Circuit,Italy,Esteban Ocon,Alpine,15,13,17,0.0,60,87.712,2,24.219,Finished,-2.0,90.658,False,False,False
+2022,7,Emilia-Romagna GP,Imola Circuit,Italy,Logan Sargeant,Williams,16,15,16,0.0,57,89.964,2,22.332,Finished,0.0,91.411,False,False,False
+2022,7,Emilia-Romagna GP,Imola Circuit,Italy,Alex Albon,Williams,17,19,17,0.0,54,88.671,1,26.837,Finished,0.0,91.855,False,False,False
+2022,7,Emilia-Romagna GP,Imola Circuit,Italy,Valtteri Bottas,Sauber,18,18,19,0.0,53,89.481,1,22.439,Finished,-1.0,91.847,False,False,False
+2022,7,Emilia-Romagna GP,Imola Circuit,Italy,Zhou Guanyu,Sauber,19,18,19,0.0,59,88.863,1,24.957,Finished,0.0,91.88,False,False,False
+2022,7,Emilia-Romagna GP,Imola Circuit,Italy,Kevin Magnussen,Haas,20,18,20,0.0,60,88.719,2,22.181,Finished,0.0,92.221,False,False,False
+2022,8,Monaco GP,Circuit de Monaco,Monaco,Lewis Hamilton,Mercedes,1,1,1,25.0,60,86.837,2,19.0,Finished,0.0,88.23,False,True,True
+2022,8,Monaco GP,Circuit de Monaco,Monaco,George Russell,Mercedes,2,1,7,6.0,60,87.515,2,24.744,Finished,-5.0,88.157,False,False,False
+2022,8,Monaco GP,Circuit de Monaco,Monaco,Charles Leclerc,Ferrari,3,3,2,18.0,60,89.093,0,0.0,Finished,1.0,88.393,False,True,False
+2022,8,Monaco GP,Circuit de Monaco,Monaco,Sergio Perez,Red Bull,4,5,4,12.0,58,88.826,1,23.228,Finished,0.0,89.141,False,False,False
+2022,8,Monaco GP,Circuit de Monaco,Monaco,Max Verstappen,Red Bull,5,3,1,25.0,52,88.303,2,24.947,Finished,4.0,88.818,False,True,True
+2022,8,Monaco GP,Circuit de Monaco,Monaco,Carlos Sainz,Ferrari,6,6,5,10.0,53,88.529,3,21.889,Finished,1.0,89.397,False,False,False
+2022,8,Monaco GP,Circuit de Monaco,Monaco,Nico Hulkenberg,Haas,7,5,6,8.0,54,88.031,0,0.0,Finished,1.0,89.201,False,False,False
+2022,8,Monaco GP,Circuit de Monaco,Monaco,Oscar Piastri,McLaren,8,6,15,0.0,60,87.92,1,22.669,Finished,-7.0,89.252,False,False,False
+2022,8,Monaco GP,Circuit de Monaco,Monaco,Lando Norris,McLaren,9,8,2,18.0,53,88.583,1,26.24,Finished,7.0,89.692,False,True,False
+2022,8,Monaco GP,Circuit de Monaco,Monaco,Fernando Alonso,Aston Martin,10,12,4,12.0,51,87.296,0,0.0,Finished,6.0,90.713,False,False,False
+2022,8,Monaco GP,Circuit de Monaco,Monaco,Lance Stroll,Aston Martin,11,11,13,0.0,54,89.605,2,23.138,Finished,-2.0,90.472,False,False,False
+2022,8,Monaco GP,Circuit de Monaco,Monaco,Esteban Ocon,Alpine,12,10,12,0.0,51,88.852,3,24.517,Finished,0.0,90.004,False,False,False
+2022,8,Monaco GP,Circuit de Monaco,Monaco,Valtteri Bottas,Sauber,13,12,20,0.0,59,89.332,1,22.787,Finished,-7.0,90.607,False,False,False
+2022,8,Monaco GP,Circuit de Monaco,Monaco,Yuki Tsunoda,RB,14,12,12,0.0,51,88.892,2,22.579,Finished,2.0,90.765,False,False,False
+2022,8,Monaco GP,Circuit de Monaco,Monaco,Daniel Ricciardo,RB,15,17,8,4.0,56,88.061,0,0.0,Finished,7.0,91.986,False,False,False
+2022,8,Monaco GP,Circuit de Monaco,Monaco,Alex Albon,Williams,16,15,20,0.0,59,88.643,0,0.0,Finished,-4.0,91.261,False,False,False
+2022,8,Monaco GP,Circuit de Monaco,Monaco,Pierre Gasly,Alpine,17,18,17,0.0,51,89.291,1,22.904,Finished,0.0,92.108,False,False,False
+2022,8,Monaco GP,Circuit de Monaco,Monaco,Logan Sargeant,Williams,18,18,14,0.0,56,88.737,2,25.966,Finished,4.0,92.003,False,False,False
+2022,8,Monaco GP,Circuit de Monaco,Monaco,Zhou Guanyu,Sauber,19,19,20,0.0,58,88.792,0,0.0,Finished,-1.0,92.439,False,False,False
+2022,8,Monaco GP,Circuit de Monaco,Monaco,Kevin Magnussen,Haas,20,20,20,0.0,55,88.756,3,23.249,Finished,0.0,92.293,False,False,False
+2022,9,Canadian GP,Circuit Gilles Villeneuve,Canada,Sergio Perez,Red Bull,1,1,1,25.0,58,88.437,4,25.432,Finished,0.0,88.527,False,True,True
+2022,9,Canadian GP,Circuit Gilles Villeneuve,Canada,George Russell,Mercedes,2,1,3,15.0,54,88.383,2,21.071,Finished,-1.0,88.109,False,True,False
+2022,9,Canadian GP,Circuit Gilles Villeneuve,Canada,Lando Norris,McLaren,3,5,1,25.0,51,87.875,0,0.0,Finished,2.0,88.887,False,True,True
+2022,9,Canadian GP,Circuit Gilles Villeneuve,Canada,Lewis Hamilton,Mercedes,4,4,5,10.0,52,86.82,1,23.791,Finished,-1.0,88.97,False,False,False
+2022,9,Canadian GP,Circuit Gilles Villeneuve,Canada,Carlos Sainz,Ferrari,5,4,7,6.0,57,86.938,3,19.244,Finished,-2.0,88.52,False,False,False
+2022,9,Canadian GP,Circuit Gilles Villeneuve,Canada,Max Verstappen,Red Bull,6,8,1,25.0,54,87.782,1,23.125,Finished,5.0,89.726,False,True,True
+2022,9,Canadian GP,Circuit Gilles Villeneuve,Canada,Pierre Gasly,Alpine,7,7,9,2.0,55,89.336,1,21.389,Finished,-2.0,89.596,False,False,False
+2022,9,Canadian GP,Circuit Gilles Villeneuve,Canada,Charles Leclerc,Ferrari,8,10,1,25.0,58,88.004,1,23.269,Finished,7.0,90.473,False,True,True
+2022,9,Canadian GP,Circuit Gilles Villeneuve,Canada,Esteban Ocon,Alpine,9,8,8,4.0,54,89.013,0,0.0,Finished,1.0,89.615,False,False,False
+2022,9,Canadian GP,Circuit Gilles Villeneuve,Canada,Oscar Piastri,McLaren,10,12,7,6.0,56,87.268,1,25.197,Finished,3.0,90.574,False,False,False
+2022,9,Canadian GP,Circuit Gilles Villeneuve,Canada,Alex Albon,Williams,11,13,10,1.0,60,88.188,1,22.103,Finished,1.0,90.885,False,False,False
+2022,9,Canadian GP,Circuit Gilles Villeneuve,Canada,Fernando Alonso,Aston Martin,12,12,12,0.0,50,88.519,2,20.302,Finished,0.0,90.354,False,False,False
+2022,9,Canadian GP,Circuit Gilles Villeneuve,Canada,Nico Hulkenberg,Haas,13,13,13,0.0,56,89.259,0,0.0,Finished,0.0,90.461,False,False,False
+2022,9,Canadian GP,Circuit Gilles Villeneuve,Canada,Lance Stroll,Aston Martin,14,12,16,0.0,58,87.284,1,21.333,Finished,-2.0,90.619,False,False,False
+2022,9,Canadian GP,Circuit Gilles Villeneuve,Canada,Logan Sargeant,Williams,15,17,9,2.0,58,88.253,2,24.025,Finished,6.0,91.709,False,False,False
+2022,9,Canadian GP,Circuit Gilles Villeneuve,Canada,Zhou Guanyu,Sauber,16,17,11,0.0,50,89.848,0,0.0,Finished,5.0,91.944,False,False,False
+2022,9,Canadian GP,Circuit Gilles Villeneuve,Canada,Yuki Tsunoda,RB,17,16,20,0.0,52,88.537,1,22.945,Finished,-3.0,91.555,False,False,False
+2022,9,Canadian GP,Circuit Gilles Villeneuve,Canada,Valtteri Bottas,Sauber,18,20,18,0.0,50,91.086,2,24.77,Finished,0.0,92.496,False,False,False
+2022,9,Canadian GP,Circuit Gilles Villeneuve,Canada,Daniel Ricciardo,RB,19,18,20,0.0,51,89.549,1,24.325,Finished,-1.0,91.995,False,False,False
+2022,9,Canadian GP,Circuit Gilles Villeneuve,Canada,Kevin Magnussen,Haas,20,20,15,0.0,51,88.987,3,23.518,Finished,5.0,92.426,False,False,False
+2022,10,Spanish GP,Circuit de Barcelona-Catalunya,Spain,Carlos Sainz,Ferrari,1,1,10,1.0,54,89.549,1,23.993,Finished,-9.0,88.202,False,False,False
+2022,10,Spanish GP,Circuit de Barcelona-Catalunya,Spain,Sergio Perez,Red Bull,2,3,3,15.0,55,86.901,2,19.947,Finished,-1.0,88.644,False,True,False
+2022,10,Spanish GP,Circuit de Barcelona-Catalunya,Spain,Max Verstappen,Red Bull,3,5,4,12.0,60,86.974,2,22.093,Finished,-1.0,89.049,False,False,False
+2022,10,Spanish GP,Circuit de Barcelona-Catalunya,Spain,George Russell,Mercedes,4,2,2,18.0,58,89.055,0,0.0,Finished,2.0,88.415,False,True,False
+2022,10,Spanish GP,Circuit de Barcelona-Catalunya,Spain,Lewis Hamilton,Mercedes,5,7,4,12.0,55,87.463,2,19.677,Finished,1.0,89.444,False,False,False
+2022,10,Spanish GP,Circuit de Barcelona-Catalunya,Spain,Charles Leclerc,Ferrari,6,7,DSQ,0.0,27,86.456,2,24.072,Disqualified,,89.565,True,False,False
+2022,10,Spanish GP,Circuit de Barcelona-Catalunya,Spain,Lando Norris,McLaren,7,9,6,8.0,59,88.781,0,0.0,Finished,1.0,89.57,False,False,False
+2022,10,Spanish GP,Circuit de Barcelona-Catalunya,Spain,Oscar Piastri,McLaren,8,10,8,4.0,57,88.755,0,0.0,Finished,0.0,90.105,False,False,False
+2022,10,Spanish GP,Circuit de Barcelona-Catalunya,Spain,Pierre Gasly,Alpine,9,7,3,15.0,54,89.446,0,0.0,Finished,6.0,89.886,False,True,False
+2022,10,Spanish GP,Circuit de Barcelona-Catalunya,Spain,Esteban Ocon,Alpine,10,11,8,4.0,50,88.532,2,22.364,Finished,2.0,90.427,False,False,False
+2022,10,Spanish GP,Circuit de Barcelona-Catalunya,Spain,Fernando Alonso,Aston Martin,11,9,5,10.0,50,88.584,0,0.0,Finished,6.0,89.832,False,False,False
+2022,10,Spanish GP,Circuit de Barcelona-Catalunya,Spain,Lance Stroll,Aston Martin,12,11,14,0.0,57,87.919,0,0.0,Finished,-2.0,90.541,False,False,False
+2022,10,Spanish GP,Circuit de Barcelona-Catalunya,Spain,Valtteri Bottas,Sauber,13,12,11,0.0,58,88.436,1,25.918,Finished,2.0,90.501,False,False,False
+2022,10,Spanish GP,Circuit de Barcelona-Catalunya,Spain,Yuki Tsunoda,RB,14,15,20,0.0,54,88.753,3,21.186,Finished,-6.0,91.114,False,False,False
+2022,10,Spanish GP,Circuit de Barcelona-Catalunya,Spain,Nico Hulkenberg,Haas,15,14,10,1.0,60,91.107,0,0.0,Finished,5.0,90.915,False,False,False
+2022,10,Spanish GP,Circuit de Barcelona-Catalunya,Spain,Daniel Ricciardo,RB,16,17,14,0.0,50,89.98,3,21.033,Finished,2.0,91.507,False,False,False
+2022,10,Spanish GP,Circuit de Barcelona-Catalunya,Spain,Kevin Magnussen,Haas,17,17,20,0.0,54,88.262,1,25.94,Finished,-3.0,91.301,False,False,False
+2022,10,Spanish GP,Circuit de Barcelona-Catalunya,Spain,Alex Albon,Williams,18,17,19,0.0,54,88.794,2,22.783,Finished,-1.0,91.441,False,False,False
+2022,10,Spanish GP,Circuit de Barcelona-Catalunya,Spain,Logan Sargeant,Williams,19,20,18,0.0,51,88.77,1,22.599,Finished,1.0,92.32,False,False,False
+2022,10,Spanish GP,Circuit de Barcelona-Catalunya,Spain,Zhou Guanyu,Sauber,20,20,12,0.0,52,88.93,2,24.102,Finished,8.0,92.4,False,False,False
+2022,11,Austrian GP,Red Bull Ring,Austria,Max Verstappen,Red Bull,1,1,3,15.0,51,87.906,2,23.524,Finished,-2.0,88.26,False,True,False
+2022,11,Austrian GP,Red Bull Ring,Austria,Charles Leclerc,Ferrari,2,2,1,25.0,60,88.225,1,24.955,Finished,1.0,88.073,False,True,True
+2022,11,Austrian GP,Red Bull Ring,Austria,Sergio Perez,Red Bull,3,2,4,12.0,59,88.456,1,25.796,Finished,-1.0,88.561,False,False,False
+2022,11,Austrian GP,Red Bull Ring,Austria,Oscar Piastri,McLaren,4,4,1,25.0,52,89.359,2,23.04,Finished,3.0,88.685,False,True,True
+2022,11,Austrian GP,Red Bull Ring,Austria,Lewis Hamilton,Mercedes,5,3,3,15.0,57,87.979,3,25.106,Finished,2.0,88.817,False,True,False
+2022,11,Austrian GP,Red Bull Ring,Austria,Lando Norris,McLaren,6,5,11,0.0,58,89.367,1,19.083,Finished,-5.0,89.23,False,False,False
+2022,11,Austrian GP,Red Bull Ring,Austria,Carlos Sainz,Ferrari,7,8,2,18.0,56,88.607,0,0.0,Finished,5.0,89.479,False,True,False
+2022,11,Austrian GP,Red Bull Ring,Austria,George Russell,Mercedes,8,7,3,15.0,57,87.964,1,22.51,Finished,5.0,89.492,False,True,False
+2022,11,Austrian GP,Red Bull Ring,Austria,Pierre Gasly,Alpine,9,8,6,8.0,54,88.502,2,23.824,Finished,3.0,89.869,False,False,False
+2022,11,Austrian GP,Red Bull Ring,Austria,Nico Hulkenberg,Haas,10,12,11,0.0,52,89.414,3,25.756,Finished,-1.0,90.732,False,False,False
+2022,11,Austrian GP,Red Bull Ring,Austria,Fernando Alonso,Aston Martin,11,9,5,10.0,57,87.059,1,20.877,Finished,6.0,90.165,False,False,False
+2022,11,Austrian GP,Red Bull Ring,Austria,Daniel Ricciardo,RB,12,11,8,4.0,50,87.411,3,27.029,Finished,4.0,90.552,False,False,False
+2022,11,Austrian GP,Red Bull Ring,Austria,Esteban Ocon,Alpine,13,12,8,4.0,58,87.644,1,19.0,Finished,5.0,90.496,False,False,False
+2022,11,Austrian GP,Red Bull Ring,Austria,Alex Albon,Williams,14,15,6,8.0,57,88.147,2,19.592,Finished,8.0,91.136,False,False,False
+2022,11,Austrian GP,Red Bull Ring,Austria,Lance Stroll,Aston Martin,15,17,16,0.0,53,87.598,1,23.862,Finished,-1.0,91.903,False,False,False
+2022,11,Austrian GP,Red Bull Ring,Austria,Valtteri Bottas,Sauber,16,14,15,0.0,52,89.264,1,22.553,Finished,1.0,90.948,False,False,False
+2022,11,Austrian GP,Red Bull Ring,Austria,Yuki Tsunoda,RB,17,16,16,0.0,52,89.972,1,19.335,Finished,1.0,91.539,False,False,False
+2022,11,Austrian GP,Red Bull Ring,Austria,Logan Sargeant,Williams,18,18,DNF,0.0,21,88.38,1,21.771,Mechanical,,91.991,True,False,False
+2022,11,Austrian GP,Red Bull Ring,Austria,Kevin Magnussen,Haas,19,18,DNF,0.0,42,87.98,2,25.623,Mechanical,,91.815,True,False,False
+2022,11,Austrian GP,Red Bull Ring,Austria,Zhou Guanyu,Sauber,20,20,20,0.0,58,88.502,1,22.035,Finished,0.0,92.384,False,False,False
+2022,12,British GP,Silverstone Circuit,UK,Charles Leclerc,Ferrari,1,3,1,25.0,57,88.624,2,26.378,Finished,0.0,88.395,False,True,True
+2022,12,British GP,Silverstone Circuit,UK,Max Verstappen,Red Bull,2,1,4,12.0,52,88.653,1,21.314,Finished,-2.0,88.24,False,False,False
+2022,12,British GP,Silverstone Circuit,UK,Lewis Hamilton,Mercedes,3,2,6,8.0,54,87.827,2,24.595,Finished,-3.0,88.785,False,False,False
+2022,12,British GP,Silverstone Circuit,UK,Sergio Perez,Red Bull,4,2,1,25.0,58,88.969,0,0.0,Finished,3.0,88.22,False,True,True
+2022,12,British GP,Silverstone Circuit,UK,George Russell,Mercedes,5,7,5,10.0,53,87.042,3,24.1,Finished,0.0,89.451,False,False,False
+2022,12,British GP,Silverstone Circuit,UK,Fernando Alonso,Aston Martin,6,4,4,12.0,58,88.476,1,22.747,Finished,2.0,89.054,False,False,False
+2022,12,British GP,Silverstone Circuit,UK,Carlos Sainz,Ferrari,7,6,1,25.0,53,87.235,1,19.0,Finished,6.0,89.33,False,True,True
+2022,12,British GP,Silverstone Circuit,UK,Lando Norris,McLaren,8,6,9,2.0,56,88.419,4,24.529,Finished,-1.0,89.112,False,False,False
+2022,12,British GP,Silverstone Circuit,UK,Oscar Piastri,McLaren,9,11,11,0.0,55,88.371,2,19.522,Finished,-2.0,90.567,False,False,False
+2022,12,British GP,Silverstone Circuit,UK,Nico Hulkenberg,Haas,10,8,11,0.0,50,89.579,4,23.965,Finished,-1.0,89.632,False,False,False
+2022,12,British GP,Silverstone Circuit,UK,Pierre Gasly,Alpine,11,11,13,0.0,57,88.967,2,23.973,Finished,-2.0,90.456,False,False,False
+2022,12,British GP,Silverstone Circuit,UK,Esteban Ocon,Alpine,12,12,14,0.0,58,88.651,1,28.354,Finished,-2.0,90.494,False,False,False
+2022,12,British GP,Silverstone Circuit,UK,Daniel Ricciardo,RB,13,15,14,0.0,55,90.453,3,24.048,Finished,-1.0,91.318,False,False,False
+2022,12,British GP,Silverstone Circuit,UK,Yuki Tsunoda,RB,14,14,15,0.0,53,88.451,0,0.0,Finished,-1.0,91.063,False,False,False
+2022,12,British GP,Silverstone Circuit,UK,Lance Stroll,Aston Martin,15,13,12,0.0,52,89.202,0,0.0,Finished,3.0,90.69,False,False,False
+2022,12,British GP,Silverstone Circuit,UK,Alex Albon,Williams,16,17,15,0.0,50,87.993,1,24.232,Finished,1.0,91.588,False,False,False
+2022,12,British GP,Silverstone Circuit,UK,Logan Sargeant,Williams,17,17,19,0.0,55,88.092,3,24.831,Finished,-2.0,91.646,False,False,False
+2022,12,British GP,Silverstone Circuit,UK,Valtteri Bottas,Sauber,18,20,20,0.0,56,88.438,1,22.841,Finished,-2.0,92.267,False,False,False
+2022,12,British GP,Silverstone Circuit,UK,Zhou Guanyu,Sauber,19,18,20,0.0,59,89.281,0,0.0,Finished,-1.0,92.047,False,False,False
+2022,12,British GP,Silverstone Circuit,UK,Kevin Magnussen,Haas,20,20,20,0.0,56,88.248,2,22.469,Finished,0.0,92.065,False,False,False
+2023,1,Bahrain GP,Bahrain International Circuit,Bahrain,Lewis Hamilton,Mercedes,1,2,1,25.0,60,89.369,0,0.0,Finished,0.0,88.616,False,True,True
+2023,1,Bahrain GP,Bahrain International Circuit,Bahrain,Carlos Sainz,Ferrari,2,3,2,18.0,57,87.713,4,21.081,Finished,0.0,88.642,False,True,False
+2023,1,Bahrain GP,Bahrain International Circuit,Bahrain,Oscar Piastri,McLaren,3,2,DNF,0.0,40,88.508,1,20.669,Mechanical,,88.833,True,False,False
+2023,1,Bahrain GP,Bahrain International Circuit,Bahrain,Sergio Perez,Red Bull,4,2,1,25.0,57,88.032,0,0.0,Finished,3.0,88.433,False,True,True
+2023,1,Bahrain GP,Bahrain International Circuit,Bahrain,Charles Leclerc,Ferrari,5,6,10,1.0,51,88.907,1,20.019,Finished,-5.0,89.069,False,False,False
+2023,1,Bahrain GP,Bahrain International Circuit,Bahrain,Max Verstappen,Red Bull,6,7,5,10.0,60,88.037,1,25.774,Finished,1.0,89.353,False,False,False
+2023,1,Bahrain GP,Bahrain International Circuit,Bahrain,George Russell,Mercedes,7,7,8,4.0,56,88.813,1,23.804,Finished,-1.0,89.735,False,False,False
+2023,1,Bahrain GP,Bahrain International Circuit,Bahrain,Lando Norris,McLaren,8,7,10,1.0,51,88.139,2,21.101,Finished,-2.0,89.65,False,False,False
+2023,1,Bahrain GP,Bahrain International Circuit,Bahrain,Fernando Alonso,Aston Martin,9,8,12,0.0,53,87.541,0,0.0,Finished,-3.0,89.209,False,False,False
+2023,1,Bahrain GP,Bahrain International Circuit,Bahrain,Pierre Gasly,Alpine,10,10,2,18.0,59,89.429,0,0.0,Finished,8.0,90.202,False,True,False
+2023,1,Bahrain GP,Bahrain International Circuit,Bahrain,Esteban Ocon,Alpine,11,13,12,0.0,52,89.328,0,0.0,Finished,-1.0,91.27,False,False,False
+2023,1,Bahrain GP,Bahrain International Circuit,Bahrain,Alex Albon,Williams,12,13,16,0.0,55,89.674,0,0.0,Finished,-4.0,90.783,False,False,False
+2023,1,Bahrain GP,Bahrain International Circuit,Bahrain,Lance Stroll,Aston Martin,13,11,10,1.0,50,88.132,1,22.544,Finished,3.0,90.365,False,False,False
+2023,1,Bahrain GP,Bahrain International Circuit,Bahrain,Nico Hulkenberg,Haas,14,14,12,0.0,59,89.968,0,0.0,Finished,2.0,91.082,False,False,False
+2023,1,Bahrain GP,Bahrain International Circuit,Bahrain,Yuki Tsunoda,RB,15,15,16,0.0,53,89.072,1,24.391,Finished,-1.0,91.31,False,False,False
+2023,1,Bahrain GP,Bahrain International Circuit,Bahrain,Daniel Ricciardo,RB,16,16,15,0.0,52,89.555,1,24.637,Finished,1.0,91.746,False,False,False
+2023,1,Bahrain GP,Bahrain International Circuit,Bahrain,Logan Sargeant,Williams,17,15,20,0.0,56,88.123,0,0.0,Finished,-3.0,91.48,False,False,False
+2023,1,Bahrain GP,Bahrain International Circuit,Bahrain,Zhou Guanyu,Sauber,18,16,18,0.0,51,90.976,0,0.0,Finished,0.0,91.535,False,False,False
+2023,1,Bahrain GP,Bahrain International Circuit,Bahrain,Kevin Magnussen,Haas,19,19,20,0.0,59,87.459,0,0.0,Finished,-1.0,92.146,False,False,False
+2023,1,Bahrain GP,Bahrain International Circuit,Bahrain,Valtteri Bottas,Sauber,20,19,16,0.0,60,90.027,3,23.935,Finished,4.0,92.055,False,False,False
+2023,2,Saudi Arabian GP,Jeddah Corniche Circuit,Saudi Arabia,Sergio Perez,Red Bull,1,1,1,25.0,51,88.132,4,25.005,Finished,0.0,88.094,False,True,True
+2023,2,Saudi Arabian GP,Jeddah Corniche Circuit,Saudi Arabia,Max Verstappen,Red Bull,2,3,1,25.0,52,88.066,1,19.848,Finished,1.0,88.862,False,True,True
+2023,2,Saudi Arabian GP,Jeddah Corniche Circuit,Saudi Arabia,Charles Leclerc,Ferrari,3,3,1,25.0,59,88.063,2,25.656,Finished,2.0,88.58,False,True,True
+2023,2,Saudi Arabian GP,Jeddah Corniche Circuit,Saudi Arabia,Carlos Sainz,Ferrari,4,5,1,25.0,58,87.551,0,0.0,Finished,3.0,89.204,False,True,True
+2023,2,Saudi Arabian GP,Jeddah Corniche Circuit,Saudi Arabia,Oscar Piastri,McLaren,5,7,3,15.0,60,87.624,1,20.329,Finished,2.0,89.444,False,True,False
+2023,2,Saudi Arabian GP,Jeddah Corniche Circuit,Saudi Arabia,Lewis Hamilton,Mercedes,6,6,11,0.0,60,88.862,3,22.541,Finished,-5.0,89.206,False,False,False
+2023,2,Saudi Arabian GP,Jeddah Corniche Circuit,Saudi Arabia,Fernando Alonso,Aston Martin,7,6,11,0.0,51,88.487,0,0.0,Finished,-4.0,89.216,False,False,False
+2023,2,Saudi Arabian GP,Jeddah Corniche Circuit,Saudi Arabia,George Russell,Mercedes,8,10,12,0.0,50,88.218,1,19.813,Finished,-4.0,90.218,False,False,False
+2023,2,Saudi Arabian GP,Jeddah Corniche Circuit,Saudi Arabia,Lando Norris,McLaren,9,7,10,1.0,52,88.353,2,25.303,Finished,-1.0,89.517,False,False,False
+2023,2,Saudi Arabian GP,Jeddah Corniche Circuit,Saudi Arabia,Yuki Tsunoda,RB,10,11,8,4.0,56,89.314,1,24.69,Finished,2.0,90.558,False,False,False
+2023,2,Saudi Arabian GP,Jeddah Corniche Circuit,Saudi Arabia,Lance Stroll,Aston Martin,11,12,9,2.0,58,88.047,0,0.0,Finished,2.0,90.819,False,False,False
+2023,2,Saudi Arabian GP,Jeddah Corniche Circuit,Saudi Arabia,Valtteri Bottas,Sauber,12,14,7,6.0,53,88.008,1,22.531,Finished,5.0,91.052,False,False,False
+2023,2,Saudi Arabian GP,Jeddah Corniche Circuit,Saudi Arabia,Pierre Gasly,Alpine,13,14,15,0.0,58,88.275,4,25.177,Finished,-2.0,90.997,False,False,False
+2023,2,Saudi Arabian GP,Jeddah Corniche Circuit,Saudi Arabia,Nico Hulkenberg,Haas,14,14,DSQ,0.0,50,88.973,0,0.0,Disqualified,,91.119,True,False,False
+2023,2,Saudi Arabian GP,Jeddah Corniche Circuit,Saudi Arabia,Alex Albon,Williams,15,15,15,0.0,50,88.798,1,25.185,Finished,0.0,91.548,False,False,False
+2023,2,Saudi Arabian GP,Jeddah Corniche Circuit,Saudi Arabia,Logan Sargeant,Williams,16,16,20,0.0,52,87.156,1,24.717,Finished,-4.0,91.498,False,False,False
+2023,2,Saudi Arabian GP,Jeddah Corniche Circuit,Saudi Arabia,Daniel Ricciardo,RB,17,15,20,0.0,59,89.39,2,22.824,Finished,-3.0,91.519,False,False,False
+2023,2,Saudi Arabian GP,Jeddah Corniche Circuit,Saudi Arabia,Esteban Ocon,Alpine,18,19,DNF,0.0,27,88.693,3,19.735,Mechanical,,92.325,True,False,False
+2023,2,Saudi Arabian GP,Jeddah Corniche Circuit,Saudi Arabia,Zhou Guanyu,Sauber,19,17,20,0.0,60,88.74,1,25.001,Finished,-1.0,91.838,False,False,False
+2023,2,Saudi Arabian GP,Jeddah Corniche Circuit,Saudi Arabia,Kevin Magnussen,Haas,20,19,DNF,0.0,48,89.861,3,25.8,Mechanical,,92.082,True,False,False
+2023,3,Australian GP,Albert Park Circuit,Australia,Sergio Perez,Red Bull,1,3,4,12.0,54,88.369,2,25.994,Finished,-3.0,88.928,False,False,False
+2023,3,Australian GP,Albert Park Circuit,Australia,Max Verstappen,Red Bull,2,2,3,15.0,57,88.452,0,0.0,Finished,-1.0,88.114,False,True,False
+2023,3,Australian GP,Albert Park Circuit,Australia,Lewis Hamilton,Mercedes,3,5,9,2.0,59,88.686,1,26.286,Finished,-6.0,89.087,False,False,False
+2023,3,Australian GP,Albert Park Circuit,Australia,Charles Leclerc,Ferrari,4,5,1,25.0,57,88.455,2,26.602,Finished,3.0,89.084,False,True,True
+2023,3,Australian GP,Albert Park Circuit,Australia,Lando Norris,McLaren,5,7,7,6.0,51,88.652,4,19.29,Finished,-2.0,89.929,False,False,False
+2023,3,Australian GP,Albert Park Circuit,Australia,Carlos Sainz,Ferrari,6,8,4,12.0,53,88.354,0,0.0,Finished,2.0,89.744,False,False,False
+2023,3,Australian GP,Albert Park Circuit,Australia,George Russell,Mercedes,7,9,3,15.0,54,87.402,2,22.637,Finished,4.0,90.129,False,True,False
+2023,3,Australian GP,Albert Park Circuit,Australia,Fernando Alonso,Aston Martin,8,8,5,10.0,52,87.922,2,26.882,Finished,3.0,89.927,False,False,False
+2023,3,Australian GP,Albert Park Circuit,Australia,Alex Albon,Williams,9,8,6,8.0,57,89.9,1,23.698,Finished,3.0,90.004,False,False,False
+2023,3,Australian GP,Albert Park Circuit,Australia,Oscar Piastri,McLaren,10,12,9,2.0,50,89.206,0,0.0,Finished,1.0,90.845,False,False,False
+2023,3,Australian GP,Albert Park Circuit,Australia,Yuki Tsunoda,RB,11,12,13,0.0,59,88.634,3,27.109,Finished,-2.0,90.746,False,False,False
+2023,3,Australian GP,Albert Park Circuit,Australia,Nico Hulkenberg,Haas,12,14,13,0.0,58,87.577,1,23.454,Finished,-1.0,90.89,False,False,False
+2023,3,Australian GP,Albert Park Circuit,Australia,Esteban Ocon,Alpine,13,13,14,0.0,54,88.937,1,22.736,Finished,-1.0,90.828,False,False,False
+2023,3,Australian GP,Albert Park Circuit,Australia,Lance Stroll,Aston Martin,14,12,12,0.0,53,88.296,0,0.0,Finished,2.0,90.568,False,False,False
+2023,3,Australian GP,Albert Park Circuit,Australia,Zhou Guanyu,Sauber,15,14,17,0.0,50,89.264,0,0.0,Finished,-2.0,90.996,False,False,False
+2023,3,Australian GP,Albert Park Circuit,Australia,Daniel Ricciardo,RB,16,16,20,0.0,51,89.04,0,0.0,Finished,-4.0,91.201,False,False,False
+2023,3,Australian GP,Albert Park Circuit,Australia,Pierre Gasly,Alpine,17,18,20,0.0,55,88.706,1,26.331,Finished,-3.0,91.693,False,False,False
+2023,3,Australian GP,Albert Park Circuit,Australia,Valtteri Bottas,Sauber,18,16,13,0.0,51,88.626,3,24.365,Finished,5.0,91.509,False,False,False
+2023,3,Australian GP,Albert Park Circuit,Australia,Logan Sargeant,Williams,19,18,20,0.0,56,89.69,4,23.251,Finished,-1.0,92.11,False,False,False
+2023,3,Australian GP,Albert Park Circuit,Australia,Kevin Magnussen,Haas,20,20,20,0.0,52,88.894,1,23.856,Finished,0.0,92.195,False,False,False
+2023,4,Japanese GP,Suzuka Circuit,Japan,Lewis Hamilton,Mercedes,1,1,6,8.0,56,87.776,0,0.0,Finished,-5.0,88.337,False,False,False
+2023,4,Japanese GP,Suzuka Circuit,Japan,Sergio Perez,Red Bull,2,1,6,8.0,58,87.975,2,22.634,Finished,-4.0,88.135,False,False,False
+2023,4,Japanese GP,Suzuka Circuit,Japan,Max Verstappen,Red Bull,3,3,3,15.0,58,88.579,1,25.418,Finished,0.0,88.444,False,True,False
+2023,4,Japanese GP,Suzuka Circuit,Japan,Charles Leclerc,Ferrari,4,5,1,25.0,60,87.793,2,25.317,Finished,3.0,89.26,False,True,True
+2023,4,Japanese GP,Suzuka Circuit,Japan,Lando Norris,McLaren,5,6,9,2.0,58,88.177,1,24.723,Finished,-4.0,89.276,False,False,False
+2023,4,Japanese GP,Suzuka Circuit,Japan,Fernando Alonso,Aston Martin,6,6,8,4.0,55,88.004,1,24.346,Finished,-2.0,89.591,False,False,False
+2023,4,Japanese GP,Suzuka Circuit,Japan,George Russell,Mercedes,7,6,7,6.0,56,88.063,1,21.771,Finished,0.0,89.216,False,False,False
+2023,4,Japanese GP,Suzuka Circuit,Japan,Oscar Piastri,McLaren,8,9,12,0.0,52,88.72,1,22.084,Finished,-4.0,89.877,False,False,False
+2023,4,Japanese GP,Suzuka Circuit,Japan,Carlos Sainz,Ferrari,9,9,13,0.0,59,87.558,0,0.0,Finished,-4.0,89.803,False,False,False
+2023,4,Japanese GP,Suzuka Circuit,Japan,Pierre Gasly,Alpine,10,8,2,18.0,50,88.124,1,22.326,Finished,8.0,89.512,False,True,False
+2023,4,Japanese GP,Suzuka Circuit,Japan,Alex Albon,Williams,11,9,DNF,0.0,14,89.365,1,24.158,Mechanical,,90.12,True,False,False
+2023,4,Japanese GP,Suzuka Circuit,Japan,Nico Hulkenberg,Haas,12,10,8,4.0,57,90.382,3,25.657,Finished,4.0,90.179,False,False,False
+2023,4,Japanese GP,Suzuka Circuit,Japan,Lance Stroll,Aston Martin,13,13,9,2.0,56,88.916,0,0.0,Finished,4.0,90.841,False,False,False
+2023,4,Japanese GP,Suzuka Circuit,Japan,Daniel Ricciardo,RB,14,15,14,0.0,57,89.135,3,22.134,Finished,0.0,91.497,False,False,False
+2023,4,Japanese GP,Suzuka Circuit,Japan,Logan Sargeant,Williams,15,13,19,0.0,53,89.826,0,0.0,Finished,-4.0,91.118,False,False,False
+2023,4,Japanese GP,Suzuka Circuit,Japan,Esteban Ocon,Alpine,16,14,20,0.0,56,88.345,0,0.0,Finished,-4.0,91.103,False,False,False
+2023,4,Japanese GP,Suzuka Circuit,Japan,Valtteri Bottas,Sauber,17,17,19,0.0,54,88.085,1,26.864,Finished,-2.0,92.291,False,False,False
+2023,4,Japanese GP,Suzuka Circuit,Japan,Kevin Magnussen,Haas,18,18,20,0.0,58,88.195,0,0.0,Finished,-2.0,91.838,False,False,False
+2023,4,Japanese GP,Suzuka Circuit,Japan,Zhou Guanyu,Sauber,19,18,DSQ,0.0,46,88.277,1,25.466,Disqualified,,91.863,True,False,False
+2023,4,Japanese GP,Suzuka Circuit,Japan,Yuki Tsunoda,RB,20,20,20,0.0,57,89.084,0,0.0,Finished,0.0,92.455,False,False,False
+2023,5,Chinese GP,Shanghai International Circuit,China,Max Verstappen,Red Bull,1,2,3,15.0,57,88.099,1,27.778,Finished,-2.0,88.78,False,True,False
+2023,5,Chinese GP,Shanghai International Circuit,China,Sergio Perez,Red Bull,2,1,9,2.0,58,87.559,0,0.0,Finished,-7.0,88.384,False,False,False
+2023,5,Chinese GP,Shanghai International Circuit,China,Charles Leclerc,Ferrari,3,5,1,25.0,60,88.801,2,21.859,Finished,2.0,89.262,False,True,True
+2023,5,Chinese GP,Shanghai International Circuit,China,Lewis Hamilton,Mercedes,4,6,8,4.0,56,86.345,1,22.617,Finished,-4.0,89.184,False,False,False
+2023,5,Chinese GP,Shanghai International Circuit,China,George Russell,Mercedes,5,3,11,0.0,53,88.18,3,25.097,Finished,-6.0,88.664,False,False,False
+2023,5,Chinese GP,Shanghai International Circuit,China,Lando Norris,McLaren,6,5,1,25.0,56,86.413,2,23.75,Finished,5.0,89.047,False,True,True
+2023,5,Chinese GP,Shanghai International Circuit,China,Oscar Piastri,McLaren,7,8,15,0.0,50,88.528,0,0.0,Finished,-8.0,89.755,False,False,False
+2023,5,Chinese GP,Shanghai International Circuit,China,Carlos Sainz,Ferrari,8,10,1,25.0,51,89.724,0,0.0,Finished,7.0,90.077,False,True,True
+2023,5,Chinese GP,Shanghai International Circuit,China,Esteban Ocon,Alpine,9,8,8,4.0,59,88.689,3,23.225,Finished,1.0,89.655,False,False,False
+2023,5,Chinese GP,Shanghai International Circuit,China,Fernando Alonso,Aston Martin,10,12,19,0.0,52,88.353,2,26.629,Finished,-9.0,90.918,False,False,False
+2023,5,Chinese GP,Shanghai International Circuit,China,Nico Hulkenberg,Haas,11,10,17,0.0,55,89.481,0,0.0,Finished,-6.0,90.449,False,False,False
+2023,5,Chinese GP,Shanghai International Circuit,China,Alex Albon,Williams,12,12,20,0.0,50,87.892,2,26.248,Finished,-8.0,90.502,False,False,False
+2023,5,Chinese GP,Shanghai International Circuit,China,Pierre Gasly,Alpine,13,15,20,0.0,51,88.253,2,25.127,Finished,-7.0,91.252,False,False,False
+2023,5,Chinese GP,Shanghai International Circuit,China,Lance Stroll,Aston Martin,14,15,12,0.0,53,89.24,0,0.0,Finished,2.0,91.321,False,False,False
+2023,5,Chinese GP,Shanghai International Circuit,China,Logan Sargeant,Williams,15,17,19,0.0,58,87.881,1,21.823,Finished,-4.0,91.372,False,False,False
+2023,5,Chinese GP,Shanghai International Circuit,China,Daniel Ricciardo,RB,16,18,16,0.0,60,88.069,3,24.286,Finished,0.0,91.716,False,False,False
+2023,5,Chinese GP,Shanghai International Circuit,China,Valtteri Bottas,Sauber,17,16,19,0.0,53,88.274,2,21.542,Finished,-2.0,91.503,False,False,False
+2023,5,Chinese GP,Shanghai International Circuit,China,Yuki Tsunoda,RB,18,17,19,0.0,60,89.092,1,25.691,Finished,-1.0,91.827,False,False,False
+2023,5,Chinese GP,Shanghai International Circuit,China,Zhou Guanyu,Sauber,19,17,15,0.0,52,88.046,2,22.805,Finished,4.0,91.659,False,False,False
+2023,5,Chinese GP,Shanghai International Circuit,China,Kevin Magnussen,Haas,20,20,20,0.0,56,88.782,1,24.458,Finished,0.0,92.431,False,False,False
+2023,6,Miami GP,Miami International Autodrome,USA,Lewis Hamilton,Mercedes,1,2,5,10.0,50,89.103,0,0.0,Finished,-4.0,88.32,False,False,False
+2023,6,Miami GP,Miami International Autodrome,USA,Sergio Perez,Red Bull,2,4,1,25.0,53,89.61,2,25.219,Finished,1.0,88.762,False,True,True
+2023,6,Miami GP,Miami International Autodrome,USA,Carlos Sainz,Ferrari,3,3,2,18.0,50,88.299,1,24.017,Finished,1.0,88.797,False,True,False
+2023,6,Miami GP,Miami International Autodrome,USA,Charles Leclerc,Ferrari,4,6,10,1.0,51,88.762,0,0.0,Finished,-6.0,89.372,False,False,False
+2023,6,Miami GP,Miami International Autodrome,USA,Max Verstappen,Red Bull,5,6,DNF,0.0,29,88.239,1,24.034,Mechanical,,89.38,True,False,False
+2023,6,Miami GP,Miami International Autodrome,USA,Oscar Piastri,McLaren,6,8,6,8.0,53,88.577,2,22.128,Finished,0.0,89.629,False,False,False
+2023,6,Miami GP,Miami International Autodrome,USA,George Russell,Mercedes,7,6,2,18.0,56,88.803,1,30.17,Finished,5.0,89.512,False,True,False
+2023,6,Miami GP,Miami International Autodrome,USA,Fernando Alonso,Aston Martin,8,7,DNF,0.0,8,89.127,2,24.095,Mechanical,,89.607,True,False,False
+2023,6,Miami GP,Miami International Autodrome,USA,Esteban Ocon,Alpine,9,10,10,1.0,53,88.018,0,0.0,Finished,-1.0,90.091,False,False,False
+2023,6,Miami GP,Miami International Autodrome,USA,Lance Stroll,Aston Martin,10,8,4,12.0,55,88.91,1,22.081,Finished,6.0,89.751,False,False,False
+2023,6,Miami GP,Miami International Autodrome,USA,Lando Norris,McLaren,11,13,7,6.0,57,87.409,1,25.649,Finished,4.0,90.695,False,False,False
+2023,6,Miami GP,Miami International Autodrome,USA,Nico Hulkenberg,Haas,12,14,15,0.0,51,89.133,1,21.328,Finished,-3.0,91.235,False,False,False
+2023,6,Miami GP,Miami International Autodrome,USA,Alex Albon,Williams,13,13,10,1.0,53,87.774,1,22.714,Finished,3.0,90.984,False,False,False
+2023,6,Miami GP,Miami International Autodrome,USA,Pierre Gasly,Alpine,14,12,8,4.0,55,87.715,0,0.0,Finished,6.0,90.656,False,False,False
+2023,6,Miami GP,Miami International Autodrome,USA,Daniel Ricciardo,RB,15,16,9,2.0,51,88.386,2,25.93,Finished,6.0,91.704,False,False,False
+2023,6,Miami GP,Miami International Autodrome,USA,Logan Sargeant,Williams,16,14,14,0.0,55,89.566,0,0.0,Finished,2.0,91.138,False,False,False
+2023,6,Miami GP,Miami International Autodrome,USA,Yuki Tsunoda,RB,17,17,16,0.0,51,89.463,2,28.415,Finished,1.0,91.555,False,False,False
+2023,6,Miami GP,Miami International Autodrome,USA,Valtteri Bottas,Sauber,18,19,20,0.0,54,87.517,0,0.0,Finished,-2.0,91.881,False,False,False
+2023,6,Miami GP,Miami International Autodrome,USA,Kevin Magnussen,Haas,19,18,15,0.0,54,87.91,0,0.0,Finished,4.0,92.071,False,False,False
+2023,6,Miami GP,Miami International Autodrome,USA,Zhou Guanyu,Sauber,20,20,15,0.0,51,89.309,1,25.5,Finished,5.0,92.313,False,False,False
+2023,7,Emilia-Romagna GP,Imola Circuit,Italy,Max Verstappen,Red Bull,1,1,1,25.0,58,89.309,1,19.0,Finished,0.0,88.279,False,True,True
+2023,7,Emilia-Romagna GP,Imola Circuit,Italy,Charles Leclerc,Ferrari,2,3,1,25.0,59,87.955,1,19.283,Finished,1.0,88.855,False,True,True
+2023,7,Emilia-Romagna GP,Imola Circuit,Italy,Lewis Hamilton,Mercedes,3,3,DNF,0.0,15,88.1,2,26.37,Mechanical,,88.522,True,False,False
+2023,7,Emilia-Romagna GP,Imola Circuit,Italy,Fernando Alonso,Aston Martin,4,4,8,4.0,59,88.195,2,22.412,Finished,-4.0,89.073,False,False,False
+2023,7,Emilia-Romagna GP,Imola Circuit,Italy,Carlos Sainz,Ferrari,5,7,2,18.0,59,88.154,1,24.711,Finished,3.0,89.62,False,True,False
+2023,7,Emilia-Romagna GP,Imola Circuit,Italy,Sergio Perez,Red Bull,6,5,9,2.0,50,88.487,1,21.28,Finished,-3.0,89.656,False,False,False
+2023,7,Emilia-Romagna GP,Imola Circuit,Italy,Oscar Piastri,McLaren,7,7,5,10.0,55,88.404,2,22.026,Finished,2.0,89.509,False,False,False
+2023,7,Emilia-Romagna GP,Imola Circuit,Italy,George Russell,Mercedes,8,6,11,0.0,58,88.524,0,0.0,Finished,-3.0,89.264,False,False,False
+2023,7,Emilia-Romagna GP,Imola Circuit,Italy,Lando Norris,McLaren,9,11,10,1.0,55,87.795,1,23.424,Finished,-1.0,90.432,False,False,False
+2023,7,Emilia-Romagna GP,Imola Circuit,Italy,Nico Hulkenberg,Haas,10,8,8,4.0,60,88.815,1,19.918,Finished,2.0,89.709,False,False,False
+2023,7,Emilia-Romagna GP,Imola Circuit,Italy,Esteban Ocon,Alpine,11,13,14,0.0,50,87.499,2,24.686,Finished,-3.0,91.001,False,False,False
+2023,7,Emilia-Romagna GP,Imola Circuit,Italy,Alex Albon,Williams,12,14,12,0.0,57,88.196,2,26.272,Finished,0.0,91.229,False,False,False
+2023,7,Emilia-Romagna GP,Imola Circuit,Italy,Pierre Gasly,Alpine,13,12,9,2.0,54,86.906,1,24.569,Finished,4.0,90.63,False,False,False
+2023,7,Emilia-Romagna GP,Imola Circuit,Italy,Logan Sargeant,Williams,14,13,14,0.0,51,88.894,2,22.215,Finished,0.0,90.915,False,False,False
+2023,7,Emilia-Romagna GP,Imola Circuit,Italy,Daniel Ricciardo,RB,15,17,DNF,0.0,12,87.976,1,24.215,Mechanical,,91.69,True,False,False
+2023,7,Emilia-Romagna GP,Imola Circuit,Italy,Lance Stroll,Aston Martin,16,14,13,0.0,53,88.482,2,21.138,Finished,3.0,91.157,False,False,False
+2023,7,Emilia-Romagna GP,Imola Circuit,Italy,Yuki Tsunoda,RB,17,17,14,0.0,55,89.151,1,19.412,Finished,3.0,91.845,False,False,False
+2023,7,Emilia-Romagna GP,Imola Circuit,Italy,Zhou Guanyu,Sauber,18,18,19,0.0,53,89.689,4,27.176,Finished,-1.0,91.832,False,False,False
+2023,7,Emilia-Romagna GP,Imola Circuit,Italy,Valtteri Bottas,Sauber,19,20,19,0.0,60,88.997,3,25.578,Finished,0.0,92.036,False,False,False
+2023,7,Emilia-Romagna GP,Imola Circuit,Italy,Kevin Magnussen,Haas,20,18,20,0.0,54,89.798,2,24.338,Finished,0.0,91.939,False,False,False
+2023,8,Monaco GP,Circuit de Monaco,Monaco,Carlos Sainz,Ferrari,1,1,1,25.0,60,88.728,2,21.639,Finished,0.0,87.935,False,True,True
+2023,8,Monaco GP,Circuit de Monaco,Monaco,Max Verstappen,Red Bull,2,4,1,25.0,53,88.176,0,0.0,Finished,1.0,89.019,False,True,True
+2023,8,Monaco GP,Circuit de Monaco,Monaco,Oscar Piastri,McLaren,3,3,1,25.0,54,89.322,3,22.833,Finished,2.0,89.032,False,True,True
+2023,8,Monaco GP,Circuit de Monaco,Monaco,George Russell,Mercedes,4,4,6,8.0,60,86.797,2,22.402,Finished,-2.0,88.99,False,False,False
+2023,8,Monaco GP,Circuit de Monaco,Monaco,Charles Leclerc,Ferrari,5,7,9,2.0,53,89.011,2,22.978,Finished,-4.0,89.697,False,False,False
+2023,8,Monaco GP,Circuit de Monaco,Monaco,Lewis Hamilton,Mercedes,6,5,2,18.0,53,89.481,1,25.874,Finished,4.0,89.143,False,True,False
+2023,8,Monaco GP,Circuit de Monaco,Monaco,Lando Norris,McLaren,7,7,9,2.0,56,88.777,2,23.101,Finished,-2.0,89.778,False,False,False
+2023,8,Monaco GP,Circuit de Monaco,Monaco,Sergio Perez,Red Bull,8,7,10,1.0,50,87.055,0,0.0,Finished,-2.0,89.632,False,False,False
+2023,8,Monaco GP,Circuit de Monaco,Monaco,Fernando Alonso,Aston Martin,9,9,10,1.0,52,88.455,1,21.9,Finished,-1.0,90.06,False,False,False
+2023,8,Monaco GP,Circuit de Monaco,Monaco,Pierre Gasly,Alpine,10,9,DNF,0.0,17,89.776,1,20.111,Mechanical,,89.814,True,False,False
+2023,8,Monaco GP,Circuit de Monaco,Monaco,Nico Hulkenberg,Haas,11,12,17,0.0,56,89.264,2,22.763,Finished,-6.0,90.875,False,False,False
+2023,8,Monaco GP,Circuit de Monaco,Monaco,Lance Stroll,Aston Martin,12,13,8,4.0,54,88.384,2,27.032,Finished,4.0,90.923,False,False,False
+2023,8,Monaco GP,Circuit de Monaco,Monaco,Esteban Ocon,Alpine,13,13,10,1.0,58,87.711,1,25.539,Finished,3.0,90.726,False,False,False
+2023,8,Monaco GP,Circuit de Monaco,Monaco,Yuki Tsunoda,RB,14,12,13,0.0,57,88.08,0,0.0,Finished,1.0,90.745,False,False,False
+2023,8,Monaco GP,Circuit de Monaco,Monaco,Daniel Ricciardo,RB,15,14,10,1.0,52,89.957,1,24.579,Finished,5.0,91.329,False,False,False
+2023,8,Monaco GP,Circuit de Monaco,Monaco,Valtteri Bottas,Sauber,16,14,19,0.0,59,88.846,0,0.0,Finished,-3.0,91.145,False,False,False
+2023,8,Monaco GP,Circuit de Monaco,Monaco,Alex Albon,Williams,17,19,18,0.0,55,87.797,1,23.673,Finished,-1.0,92.28,False,False,False
+2023,8,Monaco GP,Circuit de Monaco,Monaco,Kevin Magnussen,Haas,18,17,19,0.0,59,89.152,2,26.464,Finished,-1.0,91.556,False,False,False
+2023,8,Monaco GP,Circuit de Monaco,Monaco,Zhou Guanyu,Sauber,19,17,20,0.0,59,88.579,1,26.571,Finished,-1.0,92.189,False,False,False
+2023,8,Monaco GP,Circuit de Monaco,Monaco,Logan Sargeant,Williams,20,20,20,0.0,54,88.853,0,0.0,Finished,0.0,92.662,False,False,False
+2023,9,Canadian GP,Circuit Gilles Villeneuve,Canada,Max Verstappen,Red Bull,1,3,1,25.0,59,88.645,3,20.66,Finished,0.0,88.774,False,True,True
+2023,9,Canadian GP,Circuit Gilles Villeneuve,Canada,Fernando Alonso,Aston Martin,2,3,7,6.0,58,87.333,4,22.635,Finished,-5.0,88.418,False,False,False
+2023,9,Canadian GP,Circuit Gilles Villeneuve,Canada,George Russell,Mercedes,3,4,3,15.0,55,89.04,0,0.0,Finished,0.0,88.926,False,True,False
+2023,9,Canadian GP,Circuit Gilles Villeneuve,Canada,Carlos Sainz,Ferrari,4,4,5,10.0,58,87.52,1,24.385,Finished,-1.0,89.225,False,False,False
+2023,9,Canadian GP,Circuit Gilles Villeneuve,Canada,Lewis Hamilton,Mercedes,5,5,6,8.0,58,88.407,1,23.801,Finished,-1.0,88.815,False,False,False
+2023,9,Canadian GP,Circuit Gilles Villeneuve,Canada,Lando Norris,McLaren,6,4,8,4.0,52,87.279,0,0.0,Finished,-2.0,88.532,False,False,False
+2023,9,Canadian GP,Circuit Gilles Villeneuve,Canada,Charles Leclerc,Ferrari,7,8,9,2.0,54,87.725,4,24.44,Finished,-2.0,89.774,False,False,False
+2023,9,Canadian GP,Circuit Gilles Villeneuve,Canada,Sergio Perez,Red Bull,8,6,13,0.0,56,86.646,0,0.0,Finished,-5.0,89.305,False,False,False
+2023,9,Canadian GP,Circuit Gilles Villeneuve,Canada,Oscar Piastri,McLaren,9,8,6,8.0,54,87.503,1,21.539,Finished,3.0,89.73,False,False,False
+2023,9,Canadian GP,Circuit Gilles Villeneuve,Canada,Pierre Gasly,Alpine,10,9,7,6.0,57,88.466,2,24.535,Finished,3.0,89.938,False,False,False
+2023,9,Canadian GP,Circuit Gilles Villeneuve,Canada,Daniel Ricciardo,RB,11,9,10,1.0,51,88.054,0,0.0,Finished,1.0,89.839,False,False,False
+2023,9,Canadian GP,Circuit Gilles Villeneuve,Canada,Alex Albon,Williams,12,13,DNF,0.0,27,89.322,2,26.551,Mechanical,,90.868,True,False,False
+2023,9,Canadian GP,Circuit Gilles Villeneuve,Canada,Esteban Ocon,Alpine,13,12,15,0.0,53,88.048,4,22.426,Finished,-2.0,90.684,False,False,False
+2023,9,Canadian GP,Circuit Gilles Villeneuve,Canada,Valtteri Bottas,Sauber,14,13,11,0.0,53,88.332,2,22.693,Finished,3.0,90.574,False,False,False
+2023,9,Canadian GP,Circuit Gilles Villeneuve,Canada,Lance Stroll,Aston Martin,15,15,18,0.0,50,88.288,1,25.167,Finished,-3.0,91.534,False,False,False
+2023,9,Canadian GP,Circuit Gilles Villeneuve,Canada,Yuki Tsunoda,RB,16,17,14,0.0,50,87.746,1,22.523,Finished,2.0,91.714,False,False,False
+2023,9,Canadian GP,Circuit Gilles Villeneuve,Canada,Nico Hulkenberg,Haas,17,16,18,0.0,60,89.877,0,0.0,Finished,-1.0,91.508,False,False,False
+2023,9,Canadian GP,Circuit Gilles Villeneuve,Canada,Logan Sargeant,Williams,18,19,20,0.0,57,87.792,0,0.0,Finished,-2.0,92.101,False,False,False
+2023,9,Canadian GP,Circuit Gilles Villeneuve,Canada,Kevin Magnussen,Haas,19,20,20,0.0,52,89.345,1,24.325,Finished,-1.0,92.237,False,False,False
+2023,9,Canadian GP,Circuit Gilles Villeneuve,Canada,Zhou Guanyu,Sauber,20,18,16,0.0,51,87.988,1,27.419,Finished,4.0,92.288,False,False,False
+2023,10,Spanish GP,Circuit de Barcelona-Catalunya,Spain,Max Verstappen,Red Bull,1,3,2,18.0,58,87.916,2,23.362,Finished,-1.0,88.565,False,True,False
+2023,10,Spanish GP,Circuit de Barcelona-Catalunya,Spain,Sergio Perez,Red Bull,2,2,8,4.0,51,89.024,1,22.776,Finished,-6.0,88.613,False,False,False
+2023,10,Spanish GP,Circuit de Barcelona-Catalunya,Spain,George Russell,Mercedes,3,4,6,8.0,54,87.556,3,26.648,Finished,-3.0,88.922,False,False,False
+2023,10,Spanish GP,Circuit de Barcelona-Catalunya,Spain,Carlos Sainz,Ferrari,4,2,6,8.0,51,88.073,2,27.571,Finished,-2.0,88.383,False,False,False
+2023,10,Spanish GP,Circuit de Barcelona-Catalunya,Spain,Oscar Piastri,McLaren,5,6,1,25.0,53,88.95,0,0.0,Finished,4.0,89.813,False,True,True
+2023,10,Spanish GP,Circuit de Barcelona-Catalunya,Spain,Lewis Hamilton,Mercedes,6,7,3,15.0,53,88.469,0,0.0,Finished,3.0,89.477,False,True,False
+2023,10,Spanish GP,Circuit de Barcelona-Catalunya,Spain,Fernando Alonso,Aston Martin,7,6,7,6.0,59,87.589,2,19.725,Finished,0.0,89.391,False,False,False
+2023,10,Spanish GP,Circuit de Barcelona-Catalunya,Spain,Lando Norris,McLaren,8,6,9,2.0,57,88.722,0,0.0,Finished,-1.0,89.377,False,False,False
+2023,10,Spanish GP,Circuit de Barcelona-Catalunya,Spain,Charles Leclerc,Ferrari,9,8,7,6.0,60,88.501,1,20.636,Finished,2.0,89.53,False,False,False
+2023,10,Spanish GP,Circuit de Barcelona-Catalunya,Spain,Pierre Gasly,Alpine,10,8,8,4.0,57,89.527,0,0.0,Finished,2.0,89.818,False,False,False
+2023,10,Spanish GP,Circuit de Barcelona-Catalunya,Spain,Valtteri Bottas,Sauber,11,12,7,6.0,60,88.356,1,19.0,Finished,4.0,90.593,False,False,False
+2023,10,Spanish GP,Circuit de Barcelona-Catalunya,Spain,Esteban Ocon,Alpine,12,12,14,0.0,51,89.943,2,24.958,Finished,-2.0,90.394,False,False,False
+2023,10,Spanish GP,Circuit de Barcelona-Catalunya,Spain,Alex Albon,Williams,13,11,12,0.0,57,87.604,0,0.0,Finished,1.0,90.86,False,False,False
+2023,10,Spanish GP,Circuit de Barcelona-Catalunya,Spain,Nico Hulkenberg,Haas,14,16,8,4.0,60,88.643,0,0.0,Finished,6.0,91.956,False,False,False
+2023,10,Spanish GP,Circuit de Barcelona-Catalunya,Spain,Lance Stroll,Aston Martin,15,13,14,0.0,54,88.666,0,0.0,Finished,1.0,90.743,False,False,False
+2023,10,Spanish GP,Circuit de Barcelona-Catalunya,Spain,Yuki Tsunoda,RB,16,16,14,0.0,54,88.709,1,20.372,Finished,2.0,91.64,False,False,False
+2023,10,Spanish GP,Circuit de Barcelona-Catalunya,Spain,Zhou Guanyu,Sauber,17,16,14,0.0,54,89.163,3,24.533,Finished,3.0,91.656,False,False,False
+2023,10,Spanish GP,Circuit de Barcelona-Catalunya,Spain,Logan Sargeant,Williams,18,19,20,0.0,58,88.172,2,26.377,Finished,-2.0,92.125,False,False,False
+2023,10,Spanish GP,Circuit de Barcelona-Catalunya,Spain,Daniel Ricciardo,RB,19,17,18,0.0,57,90.488,1,23.557,Finished,1.0,91.609,False,False,False
+2023,10,Spanish GP,Circuit de Barcelona-Catalunya,Spain,Kevin Magnussen,Haas,20,20,17,0.0,51,88.378,2,22.499,Finished,3.0,92.287,False,False,False
+2023,11,Austrian GP,Red Bull Ring,Austria,Max Verstappen,Red Bull,1,1,1,25.0,51,88.997,1,21.225,Finished,0.0,88.299,False,True,True
+2023,11,Austrian GP,Red Bull Ring,Austria,Sergio Perez,Red Bull,2,1,1,25.0,51,88.859,2,24.057,Finished,1.0,88.098,False,True,True
+2023,11,Austrian GP,Red Bull Ring,Austria,Charles Leclerc,Ferrari,3,4,4,12.0,51,87.969,1,21.656,Finished,-1.0,89.137,False,False,False
+2023,11,Austrian GP,Red Bull Ring,Austria,Lewis Hamilton,Mercedes,4,2,5,10.0,57,89.692,2,25.629,Finished,-1.0,88.564,False,False,False
+2023,11,Austrian GP,Red Bull Ring,Austria,Carlos Sainz,Ferrari,5,6,5,10.0,53,87.183,2,22.084,Finished,0.0,89.385,False,False,False
+2023,11,Austrian GP,Red Bull Ring,Austria,Lando Norris,McLaren,6,5,5,10.0,54,87.954,2,23.856,Finished,1.0,88.88,False,False,False
+2023,11,Austrian GP,Red Bull Ring,Austria,George Russell,Mercedes,7,7,7,6.0,50,88.469,0,0.0,Finished,0.0,89.509,False,False,False
+2023,11,Austrian GP,Red Bull Ring,Austria,Oscar Piastri,McLaren,8,9,2,18.0,58,88.176,1,23.634,Finished,6.0,89.953,False,True,False
+2023,11,Austrian GP,Red Bull Ring,Austria,Nico Hulkenberg,Haas,9,7,8,4.0,50,89.429,1,22.648,Finished,1.0,89.443,False,False,False
+2023,11,Austrian GP,Red Bull Ring,Austria,Fernando Alonso,Aston Martin,10,10,13,0.0,57,88.684,0,0.0,Finished,-3.0,90.182,False,False,False
+2023,11,Austrian GP,Red Bull Ring,Austria,Esteban Ocon,Alpine,11,11,8,4.0,57,87.982,2,23.017,Finished,3.0,90.495,False,False,False
+2023,11,Austrian GP,Red Bull Ring,Austria,Pierre Gasly,Alpine,12,12,11,0.0,57,87.982,2,22.378,Finished,1.0,90.421,False,False,False
+2023,11,Austrian GP,Red Bull Ring,Austria,Alex Albon,Williams,13,14,16,0.0,60,89.57,0,0.0,Finished,-3.0,91.013,False,False,False
+2023,11,Austrian GP,Red Bull Ring,Austria,Yuki Tsunoda,RB,14,16,7,6.0,55,90.407,0,0.0,Finished,7.0,91.656,False,False,False
+2023,11,Austrian GP,Red Bull Ring,Austria,Logan Sargeant,Williams,15,13,DNF,0.0,16,89.213,1,23.017,Mechanical,,90.542,True,False,False
+2023,11,Austrian GP,Red Bull Ring,Austria,Lance Stroll,Aston Martin,16,14,16,0.0,57,88.236,1,26.308,Finished,0.0,91.413,False,False,False
+2023,11,Austrian GP,Red Bull Ring,Austria,Daniel Ricciardo,RB,17,15,17,0.0,52,88.218,0,0.0,Finished,0.0,91.401,False,False,False
+2023,11,Austrian GP,Red Bull Ring,Austria,Valtteri Bottas,Sauber,18,18,15,0.0,50,88.37,0,0.0,Finished,3.0,92.135,False,False,False
+2023,11,Austrian GP,Red Bull Ring,Austria,Zhou Guanyu,Sauber,19,20,20,0.0,52,89.46,0,0.0,Finished,-1.0,92.464,False,False,False
+2023,11,Austrian GP,Red Bull Ring,Austria,Kevin Magnussen,Haas,20,19,18,0.0,59,89.763,0,0.0,Finished,2.0,92.004,False,False,False
+2023,12,British GP,Silverstone Circuit,UK,Charles Leclerc,Ferrari,1,1,1,25.0,53,88.471,1,24.503,Finished,0.0,88.119,False,True,True
+2023,12,British GP,Silverstone Circuit,UK,Max Verstappen,Red Bull,2,1,1,25.0,60,87.931,1,21.247,Finished,1.0,87.978,False,True,True
+2023,12,British GP,Silverstone Circuit,UK,Sergio Perez,Red Bull,3,5,5,10.0,55,88.155,4,24.402,Finished,-2.0,89.209,False,False,False
+2023,12,British GP,Silverstone Circuit,UK,Carlos Sainz,Ferrari,4,3,1,25.0,59,88.259,1,23.436,Finished,3.0,88.877,False,True,True
+2023,12,British GP,Silverstone Circuit,UK,Lando Norris,McLaren,5,7,6,8.0,59,89.891,1,24.768,Finished,-1.0,89.409,False,False,False
+2023,12,British GP,Silverstone Circuit,UK,Lewis Hamilton,Mercedes,6,8,11,0.0,55,87.17,2,19.124,Finished,-5.0,89.811,False,False,False
+2023,12,British GP,Silverstone Circuit,UK,George Russell,Mercedes,7,6,15,0.0,53,88.407,1,22.744,Finished,-8.0,89.274,False,False,False
+2023,12,British GP,Silverstone Circuit,UK,Fernando Alonso,Aston Martin,8,9,9,2.0,59,88.41,4,27.071,Finished,-1.0,89.956,False,False,False
+2023,12,British GP,Silverstone Circuit,UK,Oscar Piastri,McLaren,9,7,20,0.0,57,88.614,0,0.0,Finished,-11.0,89.416,False,False,False
+2023,12,British GP,Silverstone Circuit,UK,Pierre Gasly,Alpine,10,12,7,6.0,52,89.128,0,0.0,Finished,3.0,90.849,False,False,False
+2023,12,British GP,Silverstone Circuit,UK,Esteban Ocon,Alpine,11,9,16,0.0,57,88.77,2,21.633,Finished,-5.0,90.017,False,False,False
+2023,12,British GP,Silverstone Circuit,UK,Logan Sargeant,Williams,12,13,9,2.0,60,88.962,1,26.724,Finished,3.0,90.855,False,False,False
+2023,12,British GP,Silverstone Circuit,UK,Zhou Guanyu,Sauber,13,15,11,0.0,55,88.307,1,25.959,Finished,2.0,90.969,False,False,False
+2023,12,British GP,Silverstone Circuit,UK,Yuki Tsunoda,RB,14,15,12,0.0,60,88.35,2,21.741,Finished,2.0,91.501,False,False,False
+2023,12,British GP,Silverstone Circuit,UK,Nico Hulkenberg,Haas,15,15,19,0.0,54,88.188,0,0.0,Finished,-4.0,91.071,False,False,False
+2023,12,British GP,Silverstone Circuit,UK,Valtteri Bottas,Sauber,16,18,17,0.0,57,88.72,1,26.599,Finished,-1.0,92.098,False,False,False
+2023,12,British GP,Silverstone Circuit,UK,Alex Albon,Williams,17,16,20,0.0,55,90.069,1,23.213,Finished,-3.0,91.446,False,False,False
+2023,12,British GP,Silverstone Circuit,UK,Kevin Magnussen,Haas,18,17,16,0.0,50,89.961,1,22.925,Finished,2.0,91.584,False,False,False
+2023,12,British GP,Silverstone Circuit,UK,Daniel Ricciardo,RB,19,17,20,0.0,55,89.522,2,23.501,Finished,-1.0,91.66,False,False,False
+2023,12,British GP,Silverstone Circuit,UK,Lance Stroll,Aston Martin,20,18,20,0.0,57,88.745,1,24.315,Finished,0.0,91.532,False,False,False
+2024,1,Bahrain GP,Bahrain International Circuit,Bahrain,Max Verstappen,Red Bull,1,1,3,15.0,53,87.747,2,25.968,Finished,-2.0,88.247,False,True,False
+2024,1,Bahrain GP,Bahrain International Circuit,Bahrain,Lewis Hamilton,Mercedes,2,2,1,25.0,53,87.73,3,20.975,Finished,1.0,88.505,False,True,True
+2024,1,Bahrain GP,Bahrain International Circuit,Bahrain,Sergio Perez,Red Bull,3,1,1,25.0,53,88.733,1,27.8,Finished,2.0,88.085,False,True,True
+2024,1,Bahrain GP,Bahrain International Circuit,Bahrain,Charles Leclerc,Ferrari,4,2,5,10.0,56,86.56,0,0.0,Finished,-1.0,88.333,False,False,False
+2024,1,Bahrain GP,Bahrain International Circuit,Bahrain,George Russell,Mercedes,5,6,4,12.0,50,87.234,2,25.426,Finished,1.0,89.453,False,False,False
+2024,1,Bahrain GP,Bahrain International Circuit,Bahrain,Carlos Sainz,Ferrari,6,7,1,25.0,59,87.207,1,24.545,Finished,5.0,89.455,False,True,True
+2024,1,Bahrain GP,Bahrain International Circuit,Bahrain,Oscar Piastri,McLaren,7,7,10,1.0,58,88.758,1,23.901,Finished,-3.0,89.489,False,False,False
+2024,1,Bahrain GP,Bahrain International Circuit,Bahrain,Fernando Alonso,Aston Martin,8,8,3,15.0,50,88.688,0,0.0,Finished,5.0,89.551,False,True,False
+2024,1,Bahrain GP,Bahrain International Circuit,Bahrain,Pierre Gasly,Alpine,9,9,5,10.0,58,88.251,1,23.319,Finished,4.0,89.971,False,False,False
+2024,1,Bahrain GP,Bahrain International Circuit,Bahrain,Lance Stroll,Aston Martin,10,10,8,4.0,58,87.227,0,0.0,Finished,2.0,90.19,False,False,False
+2024,1,Bahrain GP,Bahrain International Circuit,Bahrain,Esteban Ocon,Alpine,11,10,14,0.0,59,87.95,0,0.0,Finished,-3.0,90.17,False,False,False
+2024,1,Bahrain GP,Bahrain International Circuit,Bahrain,Alex Albon,Williams,12,14,13,0.0,60,89.374,2,25.101,Finished,-1.0,91.288,False,False,False
+2024,1,Bahrain GP,Bahrain International Circuit,Bahrain,Valtteri Bottas,Sauber,13,14,7,6.0,56,88.86,0,0.0,Finished,6.0,90.811,False,False,False
+2024,1,Bahrain GP,Bahrain International Circuit,Bahrain,Lando Norris,McLaren,14,13,15,0.0,51,87.983,2,24.233,Finished,-1.0,91.013,False,False,False
+2024,1,Bahrain GP,Bahrain International Circuit,Bahrain,Nico Hulkenberg,Haas,15,16,15,0.0,51,88.192,1,26.581,Finished,0.0,91.538,False,False,False
+2024,1,Bahrain GP,Bahrain International Circuit,Bahrain,Yuki Tsunoda,RB,16,17,13,0.0,59,89.005,2,22.911,Finished,3.0,91.498,False,False,False
+2024,1,Bahrain GP,Bahrain International Circuit,Bahrain,Daniel Ricciardo,RB,17,18,18,0.0,56,89.515,2,23.474,Finished,-1.0,91.95,False,False,False
+2024,1,Bahrain GP,Bahrain International Circuit,Bahrain,Kevin Magnussen,Haas,18,20,20,0.0,54,88.437,0,0.0,Finished,-2.0,92.454,False,False,False
+2024,1,Bahrain GP,Bahrain International Circuit,Bahrain,Logan Sargeant,Williams,19,20,16,0.0,57,88.413,4,24.005,Finished,3.0,92.446,False,False,False
+2024,1,Bahrain GP,Bahrain International Circuit,Bahrain,Zhou Guanyu,Sauber,20,20,17,0.0,59,89.221,0,0.0,Finished,3.0,92.211,False,False,False
+2024,2,Saudi Arabian GP,Jeddah Corniche Circuit,Saudi Arabia,Sergio Perez,Red Bull,1,1,1,25.0,55,88.168,0,0.0,Finished,0.0,88.085,False,True,True
+2024,2,Saudi Arabian GP,Jeddah Corniche Circuit,Saudi Arabia,Charles Leclerc,Ferrari,2,4,1,25.0,60,87.408,0,0.0,Finished,1.0,88.567,False,True,True
+2024,2,Saudi Arabian GP,Jeddah Corniche Circuit,Saudi Arabia,Carlos Sainz,Ferrari,3,3,3,15.0,51,88.023,1,26.649,Finished,0.0,88.446,False,True,False
+2024,2,Saudi Arabian GP,Jeddah Corniche Circuit,Saudi Arabia,George Russell,Mercedes,4,3,5,10.0,60,88.394,1,24.162,Finished,-1.0,88.39,False,False,False
+2024,2,Saudi Arabian GP,Jeddah Corniche Circuit,Saudi Arabia,Oscar Piastri,McLaren,5,4,7,6.0,52,86.91,2,19.0,Finished,-2.0,88.929,False,False,False
+2024,2,Saudi Arabian GP,Jeddah Corniche Circuit,Saudi Arabia,Lewis Hamilton,Mercedes,6,4,6,8.0,51,87.892,3,24.291,Finished,0.0,89.059,False,False,False
+2024,2,Saudi Arabian GP,Jeddah Corniche Circuit,Saudi Arabia,Max Verstappen,Red Bull,7,6,10,1.0,60,87.549,0,0.0,Finished,-3.0,89.436,False,False,False
+2024,2,Saudi Arabian GP,Jeddah Corniche Circuit,Saudi Arabia,Lando Norris,McLaren,8,6,10,1.0,57,88.434,0,0.0,Finished,-2.0,88.767,False,False,False
+2024,2,Saudi Arabian GP,Jeddah Corniche Circuit,Saudi Arabia,Esteban Ocon,Alpine,9,7,5,10.0,60,89.832,2,24.463,Finished,4.0,89.522,False,False,False
+2024,2,Saudi Arabian GP,Jeddah Corniche Circuit,Saudi Arabia,Fernando Alonso,Aston Martin,10,10,11,0.0,50,88.142,2,23.827,Finished,-1.0,89.761,False,False,False
+2024,2,Saudi Arabian GP,Jeddah Corniche Circuit,Saudi Arabia,Alex Albon,Williams,11,12,10,1.0,59,89.926,1,23.104,Finished,1.0,90.731,False,False,False
+2024,2,Saudi Arabian GP,Jeddah Corniche Circuit,Saudi Arabia,Lance Stroll,Aston Martin,12,12,18,0.0,55,89.068,3,27.659,Finished,-6.0,90.587,False,False,False
+2024,2,Saudi Arabian GP,Jeddah Corniche Circuit,Saudi Arabia,Yuki Tsunoda,RB,13,11,13,0.0,53,88.613,1,26.354,Finished,0.0,90.52,False,False,False
+2024,2,Saudi Arabian GP,Jeddah Corniche Circuit,Saudi Arabia,Nico Hulkenberg,Haas,14,13,12,0.0,52,88.683,2,19.0,Finished,2.0,91.218,False,False,False
+2024,2,Saudi Arabian GP,Jeddah Corniche Circuit,Saudi Arabia,Pierre Gasly,Alpine,15,16,20,0.0,58,88.569,1,27.547,Finished,-5.0,91.321,False,False,False
+2024,2,Saudi Arabian GP,Jeddah Corniche Circuit,Saudi Arabia,Zhou Guanyu,Sauber,16,14,14,0.0,56,88.125,2,20.909,Finished,2.0,90.954,False,False,False
+2024,2,Saudi Arabian GP,Jeddah Corniche Circuit,Saudi Arabia,Kevin Magnussen,Haas,17,17,12,0.0,52,88.646,2,25.438,Finished,5.0,91.552,False,False,False
+2024,2,Saudi Arabian GP,Jeddah Corniche Circuit,Saudi Arabia,Valtteri Bottas,Sauber,18,20,18,0.0,55,88.326,1,21.422,Finished,0.0,92.389,False,False,False
+2024,2,Saudi Arabian GP,Jeddah Corniche Circuit,Saudi Arabia,Daniel Ricciardo,RB,19,20,20,0.0,50,88.637,1,22.134,Finished,-1.0,92.426,False,False,False
+2024,2,Saudi Arabian GP,Jeddah Corniche Circuit,Saudi Arabia,Logan Sargeant,Williams,20,19,13,0.0,58,88.279,4,19.0,Finished,7.0,92.282,False,False,False
+2024,3,Australian GP,Albert Park Circuit,Australia,Max Verstappen,Red Bull,1,2,2,18.0,52,88.371,1,25.874,Finished,-1.0,88.418,False,True,False
+2024,3,Australian GP,Albert Park Circuit,Australia,Sergio Perez,Red Bull,2,2,5,10.0,59,88.301,2,22.733,Finished,-3.0,88.114,False,False,False
+2024,3,Australian GP,Albert Park Circuit,Australia,Charles Leclerc,Ferrari,3,4,5,10.0,59,89.032,1,27.1,Finished,-2.0,88.779,False,False,False
+2024,3,Australian GP,Albert Park Circuit,Australia,Carlos Sainz,Ferrari,4,2,2,18.0,59,86.141,0,0.0,Finished,2.0,88.468,False,True,False
+2024,3,Australian GP,Albert Park Circuit,Australia,Fernando Alonso,Aston Martin,5,4,3,15.0,57,88.259,1,22.781,Finished,2.0,89.083,False,True,False
+2024,3,Australian GP,Albert Park Circuit,Australia,Oscar Piastri,McLaren,6,5,5,10.0,50,88.009,0,0.0,Finished,1.0,88.697,False,False,False
+2024,3,Australian GP,Albert Park Circuit,Australia,Lewis Hamilton,Mercedes,7,7,10,1.0,55,88.197,1,23.328,Finished,-3.0,89.531,False,False,False
+2024,3,Australian GP,Albert Park Circuit,Australia,George Russell,Mercedes,8,9,9,2.0,59,87.612,0,0.0,Finished,-1.0,89.759,False,False,False
+2024,3,Australian GP,Albert Park Circuit,Australia,Lando Norris,McLaren,9,9,10,1.0,53,89.639,2,21.329,Finished,-1.0,89.723,False,False,False
+2024,3,Australian GP,Albert Park Circuit,Australia,Pierre Gasly,Alpine,10,9,10,1.0,59,89.805,1,21.324,Finished,0.0,90.034,False,False,False
+2024,3,Australian GP,Albert Park Circuit,Australia,Alex Albon,Williams,11,12,5,10.0,51,86.812,1,22.979,Finished,6.0,90.676,False,False,False
+2024,3,Australian GP,Albert Park Circuit,Australia,Esteban Ocon,Alpine,12,11,8,4.0,50,88.624,2,24.189,Finished,4.0,90.407,False,False,False
+2024,3,Australian GP,Albert Park Circuit,Australia,Daniel Ricciardo,RB,13,13,6,8.0,60,90.186,1,19.0,Finished,7.0,90.862,False,False,False
+2024,3,Australian GP,Albert Park Circuit,Australia,Yuki Tsunoda,RB,14,16,13,0.0,60,88.963,3,23.556,Finished,1.0,91.361,False,False,False
+2024,3,Australian GP,Albert Park Circuit,Australia,Valtteri Bottas,Sauber,15,15,15,0.0,57,87.904,2,23.355,Finished,0.0,91.217,False,False,False
+2024,3,Australian GP,Albert Park Circuit,Australia,Nico Hulkenberg,Haas,16,15,14,0.0,52,89.131,2,24.777,Finished,2.0,91.293,False,False,False
+2024,3,Australian GP,Albert Park Circuit,Australia,Logan Sargeant,Williams,17,17,15,0.0,52,88.361,3,26.324,Finished,2.0,92.005,False,False,False
+2024,3,Australian GP,Albert Park Circuit,Australia,Lance Stroll,Aston Martin,18,17,12,0.0,56,87.891,0,0.0,Finished,6.0,91.544,False,False,False
+2024,3,Australian GP,Albert Park Circuit,Australia,Zhou Guanyu,Sauber,19,18,11,0.0,50,89.203,0,0.0,Finished,8.0,92.176,False,False,False
+2024,3,Australian GP,Albert Park Circuit,Australia,Kevin Magnussen,Haas,20,19,14,0.0,52,89.651,1,21.877,Finished,6.0,92.172,False,False,False
+2024,4,Japanese GP,Suzuka Circuit,Japan,Lewis Hamilton,Mercedes,1,2,DNS,0.0,18,87.501,0,0.0,Did not start,,88.197,True,False,False
+2024,4,Japanese GP,Suzuka Circuit,Japan,Max Verstappen,Red Bull,2,1,5,10.0,60,87.276,2,22.888,Finished,-3.0,88.314,False,False,False
+2024,4,Japanese GP,Suzuka Circuit,Japan,Sergio Perez,Red Bull,3,4,1,25.0,57,87.971,0,0.0,Finished,2.0,89.167,False,True,True
+2024,4,Japanese GP,Suzuka Circuit,Japan,Charles Leclerc,Ferrari,4,5,1,25.0,60,87.559,1,26.261,Finished,3.0,88.95,False,True,True
+2024,4,Japanese GP,Suzuka Circuit,Japan,Oscar Piastri,McLaren,5,7,3,15.0,54,88.319,2,25.227,Finished,2.0,89.553,False,True,False
+2024,4,Japanese GP,Suzuka Circuit,Japan,George Russell,Mercedes,6,4,4,12.0,51,88.775,2,23.725,Finished,2.0,88.74,False,False,False
+2024,4,Japanese GP,Suzuka Circuit,Japan,Fernando Alonso,Aston Martin,7,8,6,8.0,60,88.247,1,20.607,Finished,1.0,89.935,False,False,False
+2024,4,Japanese GP,Suzuka Circuit,Japan,Pierre Gasly,Alpine,8,10,12,0.0,58,89.722,0,0.0,Finished,-4.0,90.258,False,False,False
+2024,4,Japanese GP,Suzuka Circuit,Japan,Carlos Sainz,Ferrari,9,7,5,10.0,58,87.911,2,25.039,Finished,4.0,89.637,False,False,False
+2024,4,Japanese GP,Suzuka Circuit,Japan,Lando Norris,McLaren,10,9,11,0.0,59,87.732,2,24.28,Finished,-1.0,89.932,False,False,False
+2024,4,Japanese GP,Suzuka Circuit,Japan,Esteban Ocon,Alpine,11,10,14,0.0,54,88.542,1,28.043,Finished,-3.0,90.051,False,False,False
+2024,4,Japanese GP,Suzuka Circuit,Japan,Lance Stroll,Aston Martin,12,13,3,15.0,60,88.002,1,22.426,Finished,9.0,90.697,False,True,False
+2024,4,Japanese GP,Suzuka Circuit,Japan,Daniel Ricciardo,RB,13,13,13,0.0,60,88.451,2,25.676,Finished,0.0,90.66,False,False,False
+2024,4,Japanese GP,Suzuka Circuit,Japan,Alex Albon,Williams,14,15,12,0.0,50,89.221,2,23.931,Finished,2.0,91.327,False,False,False
+2024,4,Japanese GP,Suzuka Circuit,Japan,Yuki Tsunoda,RB,15,15,20,0.0,52,88.992,2,20.067,Finished,-5.0,91.376,False,False,False
+2024,4,Japanese GP,Suzuka Circuit,Japan,Zhou Guanyu,Sauber,16,14,13,0.0,50,89.708,1,23.609,Finished,3.0,91.157,False,False,False
+2024,4,Japanese GP,Suzuka Circuit,Japan,Nico Hulkenberg,Haas,17,17,16,0.0,51,89.321,0,0.0,Finished,1.0,91.615,False,False,False
+2024,4,Japanese GP,Suzuka Circuit,Japan,Valtteri Bottas,Sauber,18,20,11,0.0,58,89.127,0,0.0,Finished,7.0,92.253,False,False,False
+2024,4,Japanese GP,Suzuka Circuit,Japan,Logan Sargeant,Williams,19,20,13,0.0,53,89.064,0,0.0,Finished,6.0,92.4,False,False,False
+2024,4,Japanese GP,Suzuka Circuit,Japan,Kevin Magnussen,Haas,20,20,18,0.0,57,88.417,3,19.0,Finished,2.0,92.559,False,False,False
+2024,5,Chinese GP,Shanghai International Circuit,China,Carlos Sainz,Ferrari,1,2,1,25.0,57,88.965,0,0.0,Finished,0.0,88.439,False,True,True
+2024,5,Chinese GP,Shanghai International Circuit,China,Max Verstappen,Red Bull,2,1,6,8.0,52,88.087,2,23.576,Finished,-4.0,88.226,False,False,False
+2024,5,Chinese GP,Shanghai International Circuit,China,Sergio Perez,Red Bull,3,5,6,8.0,51,87.879,3,26.184,Finished,-3.0,89.061,False,False,False
+2024,5,Chinese GP,Shanghai International Circuit,China,Charles Leclerc,Ferrari,4,6,4,12.0,51,89.129,2,25.365,Finished,0.0,89.27,False,False,False
+2024,5,Chinese GP,Shanghai International Circuit,China,Lewis Hamilton,Mercedes,5,3,1,25.0,54,88.234,1,21.353,Finished,4.0,88.678,False,True,True
+2024,5,Chinese GP,Shanghai International Circuit,China,Oscar Piastri,McLaren,6,8,1,25.0,51,88.66,1,24.62,Finished,5.0,89.815,False,True,True
+2024,5,Chinese GP,Shanghai International Circuit,China,George Russell,Mercedes,7,5,11,0.0,55,87.633,0,0.0,Finished,-4.0,88.93,False,False,False
+2024,5,Chinese GP,Shanghai International Circuit,China,Pierre Gasly,Alpine,8,6,12,0.0,60,87.988,0,0.0,Finished,-4.0,89.327,False,False,False
+2024,5,Chinese GP,Shanghai International Circuit,China,Lance Stroll,Aston Martin,9,9,8,4.0,52,88.324,1,27.122,Finished,1.0,89.946,False,False,False
+2024,5,Chinese GP,Shanghai International Circuit,China,Lando Norris,McLaren,10,8,13,0.0,53,88.79,1,22.778,Finished,-3.0,89.633,False,False,False
+2024,5,Chinese GP,Shanghai International Circuit,China,Alex Albon,Williams,11,9,9,2.0,56,89.83,0,0.0,Finished,2.0,90.066,False,False,False
+2024,5,Chinese GP,Shanghai International Circuit,China,Fernando Alonso,Aston Martin,12,13,8,4.0,54,87.475,1,24.41,Finished,4.0,90.862,False,False,False
+2024,5,Chinese GP,Shanghai International Circuit,China,Daniel Ricciardo,RB,13,11,10,1.0,54,86.548,0,0.0,Finished,3.0,90.387,False,False,False
+2024,5,Chinese GP,Shanghai International Circuit,China,Esteban Ocon,Alpine,14,16,7,6.0,51,88.03,3,23.603,Finished,7.0,91.805,False,False,False
+2024,5,Chinese GP,Shanghai International Circuit,China,Zhou Guanyu,Sauber,15,13,17,0.0,58,89.271,2,20.244,Finished,-2.0,90.743,False,False,False
+2024,5,Chinese GP,Shanghai International Circuit,China,Yuki Tsunoda,RB,16,16,16,0.0,56,87.283,1,28.41,Finished,0.0,91.394,False,False,False
+2024,5,Chinese GP,Shanghai International Circuit,China,Logan Sargeant,Williams,17,17,16,0.0,60,90.345,1,26.566,Finished,1.0,91.568,False,False,False
+2024,5,Chinese GP,Shanghai International Circuit,China,Kevin Magnussen,Haas,18,17,15,0.0,55,88.955,2,24.004,Finished,3.0,91.726,False,False,False
+2024,5,Chinese GP,Shanghai International Circuit,China,Nico Hulkenberg,Haas,19,20,19,0.0,53,89.08,0,0.0,Finished,0.0,92.212,False,False,False
+2024,5,Chinese GP,Shanghai International Circuit,China,Valtteri Bottas,Sauber,20,19,20,0.0,58,88.953,1,23.017,Finished,0.0,92.349,False,False,False
+2024,6,Miami GP,Miami International Autodrome,USA,Lewis Hamilton,Mercedes,1,2,1,25.0,58,89.158,4,22.309,Finished,0.0,88.511,False,True,True
+2024,6,Miami GP,Miami International Autodrome,USA,Sergio Perez,Red Bull,2,3,1,25.0,54,88.352,4,25.821,Finished,1.0,88.501,False,True,True
+2024,6,Miami GP,Miami International Autodrome,USA,Charles Leclerc,Ferrari,3,3,16,0.0,56,87.543,1,27.261,Finished,-13.0,88.718,False,False,False
+2024,6,Miami GP,Miami International Autodrome,USA,Max Verstappen,Red Bull,4,5,7,6.0,58,87.169,0,0.0,Finished,-3.0,89.188,False,False,False
+2024,6,Miami GP,Miami International Autodrome,USA,Carlos Sainz,Ferrari,5,3,7,6.0,52,88.599,1,20.184,Finished,-2.0,88.749,False,False,False
+2024,6,Miami GP,Miami International Autodrome,USA,Lando Norris,McLaren,6,6,9,2.0,56,89.131,1,22.045,Finished,-3.0,89.477,False,False,False
+2024,6,Miami GP,Miami International Autodrome,USA,George Russell,Mercedes,7,5,7,6.0,58,89.882,1,21.311,Finished,0.0,89.021,False,False,False
+2024,6,Miami GP,Miami International Autodrome,USA,Oscar Piastri,McLaren,8,9,9,2.0,51,87.726,2,21.526,Finished,-1.0,89.81,False,False,False
+2024,6,Miami GP,Miami International Autodrome,USA,Fernando Alonso,Aston Martin,9,8,18,0.0,60,87.945,0,0.0,Finished,-9.0,90.023,False,False,False
+2024,6,Miami GP,Miami International Autodrome,USA,Lance Stroll,Aston Martin,10,12,11,0.0,60,89.241,1,27.469,Finished,-1.0,90.494,False,False,False
+2024,6,Miami GP,Miami International Autodrome,USA,Alex Albon,Williams,11,12,9,2.0,54,88.063,0,0.0,Finished,2.0,90.768,False,False,False
+2024,6,Miami GP,Miami International Autodrome,USA,Esteban Ocon,Alpine,12,10,11,0.0,50,89.169,2,25.028,Finished,1.0,90.393,False,False,False
+2024,6,Miami GP,Miami International Autodrome,USA,Pierre Gasly,Alpine,13,13,10,1.0,57,89.821,1,24.658,Finished,3.0,90.864,False,False,False
+2024,6,Miami GP,Miami International Autodrome,USA,Nico Hulkenberg,Haas,14,15,15,0.0,50,90.266,1,25.251,Finished,-1.0,91.355,False,False,False
+2024,6,Miami GP,Miami International Autodrome,USA,Daniel Ricciardo,RB,15,17,16,0.0,53,88.85,1,23.323,Finished,-1.0,91.774,False,False,False
+2024,6,Miami GP,Miami International Autodrome,USA,Valtteri Bottas,Sauber,16,15,DSQ,0.0,44,88.878,0,0.0,Disqualified,,91.391,True,False,False
+2024,6,Miami GP,Miami International Autodrome,USA,Yuki Tsunoda,RB,17,19,20,0.0,57,88.696,1,23.373,Finished,-3.0,92.144,False,False,False
+2024,6,Miami GP,Miami International Autodrome,USA,Logan Sargeant,Williams,18,16,17,0.0,59,90.243,1,27.888,Finished,1.0,91.545,False,False,False
+2024,6,Miami GP,Miami International Autodrome,USA,Zhou Guanyu,Sauber,19,18,20,0.0,53,89.463,0,0.0,Finished,-1.0,92.281,False,False,False
+2024,6,Miami GP,Miami International Autodrome,USA,Kevin Magnussen,Haas,20,20,17,0.0,56,88.99,2,22.948,Finished,3.0,92.562,False,False,False
+2024,7,Emilia-Romagna GP,Imola Circuit,Italy,Charles Leclerc,Ferrari,1,1,1,25.0,59,88.204,1,20.012,Finished,0.0,87.982,False,True,True
+2024,7,Emilia-Romagna GP,Imola Circuit,Italy,Carlos Sainz,Ferrari,2,2,DSQ,0.0,38,89.165,1,26.494,Disqualified,,88.58,True,False,False
+2024,7,Emilia-Romagna GP,Imola Circuit,Italy,Max Verstappen,Red Bull,3,3,5,10.0,51,87.192,1,23.108,Finished,-2.0,88.613,False,False,False
+2024,7,Emilia-Romagna GP,Imola Circuit,Italy,Lewis Hamilton,Mercedes,4,3,7,6.0,56,88.474,2,24.194,Finished,-3.0,88.537,False,False,False
+2024,7,Emilia-Romagna GP,Imola Circuit,Italy,Oscar Piastri,McLaren,5,6,9,2.0,56,87.858,1,24.564,Finished,-4.0,89.199,False,False,False
+2024,7,Emilia-Romagna GP,Imola Circuit,Italy,Sergio Perez,Red Bull,6,5,1,25.0,59,88.971,4,23.061,Finished,5.0,89.09,False,True,True
+2024,7,Emilia-Romagna GP,Imola Circuit,Italy,Fernando Alonso,Aston Martin,7,9,14,0.0,54,88.928,2,25.478,Finished,-7.0,89.849,False,False,False
+2024,7,Emilia-Romagna GP,Imola Circuit,Italy,Nico Hulkenberg,Haas,8,8,7,6.0,60,88.269,1,26.749,Finished,1.0,89.735,False,False,False
+2024,7,Emilia-Romagna GP,Imola Circuit,Italy,Lando Norris,McLaren,9,11,12,0.0,53,88.655,1,21.165,Finished,-3.0,90.334,False,False,False
+2024,7,Emilia-Romagna GP,Imola Circuit,Italy,George Russell,Mercedes,10,8,12,0.0,56,88.903,2,25.276,Finished,-2.0,89.583,False,False,False
+2024,7,Emilia-Romagna GP,Imola Circuit,Italy,Alex Albon,Williams,11,9,18,0.0,60,88.258,2,22.302,Finished,-7.0,89.803,False,False,False
+2024,7,Emilia-Romagna GP,Imola Circuit,Italy,Lance Stroll,Aston Martin,12,10,13,0.0,50,89.042,0,0.0,Finished,-1.0,90.306,False,False,False
+2024,7,Emilia-Romagna GP,Imola Circuit,Italy,Esteban Ocon,Alpine,13,11,4,12.0,59,88.656,1,20.804,Finished,9.0,90.286,False,False,False
+2024,7,Emilia-Romagna GP,Imola Circuit,Italy,Yuki Tsunoda,RB,14,15,15,0.0,56,87.544,0,0.0,Finished,-1.0,91.302,False,False,False
+2024,7,Emilia-Romagna GP,Imola Circuit,Italy,Logan Sargeant,Williams,15,17,13,0.0,60,89.409,1,24.909,Finished,2.0,91.997,False,False,False
+2024,7,Emilia-Romagna GP,Imola Circuit,Italy,Pierre Gasly,Alpine,16,14,19,0.0,51,88.941,0,0.0,Finished,-3.0,90.826,False,False,False
+2024,7,Emilia-Romagna GP,Imola Circuit,Italy,Daniel Ricciardo,RB,17,16,17,0.0,50,88.667,4,20.833,Finished,0.0,91.63,False,False,False
+2024,7,Emilia-Romagna GP,Imola Circuit,Italy,Valtteri Bottas,Sauber,18,16,19,0.0,56,88.851,2,24.242,Finished,-1.0,91.303,False,False,False
+2024,7,Emilia-Romagna GP,Imola Circuit,Italy,Zhou Guanyu,Sauber,19,17,20,0.0,59,88.425,3,22.226,Finished,-1.0,91.841,False,False,False
+2024,7,Emilia-Romagna GP,Imola Circuit,Italy,Kevin Magnussen,Haas,20,18,20,0.0,51,88.007,0,0.0,Finished,0.0,92.041,False,False,False
+2024,8,Monaco GP,Circuit de Monaco,Monaco,Charles Leclerc,Ferrari,1,1,1,25.0,53,87.456,2,24.365,Finished,0.0,88.186,False,True,True
+2024,8,Monaco GP,Circuit de Monaco,Monaco,Max Verstappen,Red Bull,2,4,3,15.0,56,88.317,0,0.0,Finished,-1.0,88.751,False,True,False
+2024,8,Monaco GP,Circuit de Monaco,Monaco,Lewis Hamilton,Mercedes,3,4,8,4.0,60,88.334,4,25.527,Finished,-5.0,88.948,False,False,False
+2024,8,Monaco GP,Circuit de Monaco,Monaco,Carlos Sainz,Ferrari,4,6,1,25.0,54,87.907,2,24.54,Finished,3.0,89.459,False,True,True
+2024,8,Monaco GP,Circuit de Monaco,Monaco,Oscar Piastri,McLaren,5,5,5,10.0,58,87.936,0,0.0,Finished,0.0,88.796,False,False,False
+2024,8,Monaco GP,Circuit de Monaco,Monaco,Sergio Perez,Red Bull,6,6,1,25.0,57,86.603,2,23.481,Finished,5.0,89.665,False,True,True
+2024,8,Monaco GP,Circuit de Monaco,Monaco,Lando Norris,McLaren,7,6,8,4.0,53,88.739,2,27.349,Finished,-1.0,89.385,False,False,False
+2024,8,Monaco GP,Circuit de Monaco,Monaco,George Russell,Mercedes,8,10,1,25.0,51,87.205,4,22.294,Finished,7.0,90.048,False,True,True
+2024,8,Monaco GP,Circuit de Monaco,Monaco,Fernando Alonso,Aston Martin,9,10,1,25.0,59,88.627,2,24.13,Finished,8.0,90.201,False,True,True
+2024,8,Monaco GP,Circuit de Monaco,Monaco,Nico Hulkenberg,Haas,10,10,9,2.0,58,88.515,2,23.562,Finished,1.0,90.166,False,False,False
+2024,8,Monaco GP,Circuit de Monaco,Monaco,Esteban Ocon,Alpine,11,12,9,2.0,57,88.887,1,22.331,Finished,2.0,90.344,False,False,False
+2024,8,Monaco GP,Circuit de Monaco,Monaco,Pierre Gasly,Alpine,12,13,10,1.0,55,87.3,0,0.0,Finished,2.0,90.681,False,False,False
+2024,8,Monaco GP,Circuit de Monaco,Monaco,Alex Albon,Williams,13,14,15,0.0,55,88.536,2,28.342,Finished,-2.0,91.406,False,False,False
+2024,8,Monaco GP,Circuit de Monaco,Monaco,Logan Sargeant,Williams,14,12,12,0.0,52,88.591,1,23.545,Finished,2.0,90.308,False,False,False
+2024,8,Monaco GP,Circuit de Monaco,Monaco,Lance Stroll,Aston Martin,15,15,16,0.0,57,88.625,1,19.0,Finished,-1.0,91.378,False,False,False
+2024,8,Monaco GP,Circuit de Monaco,Monaco,Daniel Ricciardo,RB,16,18,20,0.0,59,88.694,0,0.0,Finished,-4.0,91.917,False,False,False
+2024,8,Monaco GP,Circuit de Monaco,Monaco,Yuki Tsunoda,RB,17,17,19,0.0,57,88.713,1,23.93,Finished,-2.0,91.884,False,False,False
+2024,8,Monaco GP,Circuit de Monaco,Monaco,Kevin Magnussen,Haas,18,17,16,0.0,56,87.382,0,0.0,Finished,2.0,91.5,False,False,False
+2024,8,Monaco GP,Circuit de Monaco,Monaco,Valtteri Bottas,Sauber,19,18,19,0.0,56,89.239,0,0.0,Finished,0.0,91.625,False,False,False
+2024,8,Monaco GP,Circuit de Monaco,Monaco,Zhou Guanyu,Sauber,20,18,20,0.0,54,89.338,1,25.411,Finished,0.0,92.164,False,False,False
+2024,9,Canadian GP,Circuit Gilles Villeneuve,Canada,Max Verstappen,Red Bull,1,3,7,6.0,52,89.003,1,25.943,Finished,-6.0,88.687,False,False,False
+2024,9,Canadian GP,Circuit Gilles Villeneuve,Canada,Sergio Perez,Red Bull,2,1,3,15.0,56,89.083,3,22.361,Finished,-1.0,88.251,False,True,False
+2024,9,Canadian GP,Circuit Gilles Villeneuve,Canada,Charles Leclerc,Ferrari,3,2,DNF,0.0,46,87.654,3,25.975,Mechanical,,88.276,True,False,False
+2024,9,Canadian GP,Circuit Gilles Villeneuve,Canada,Lewis Hamilton,Mercedes,4,3,5,10.0,56,88.554,0,0.0,Finished,-1.0,88.615,False,False,False
+2024,9,Canadian GP,Circuit Gilles Villeneuve,Canada,Carlos Sainz,Ferrari,5,7,3,15.0,60,89.038,0,0.0,Finished,2.0,89.666,False,True,False
+2024,9,Canadian GP,Circuit Gilles Villeneuve,Canada,Fernando Alonso,Aston Martin,6,5,2,18.0,55,87.742,1,24.759,Finished,4.0,88.999,False,True,False
+2024,9,Canadian GP,Circuit Gilles Villeneuve,Canada,George Russell,Mercedes,7,5,10,1.0,59,88.198,1,22.658,Finished,-3.0,89.149,False,False,False
+2024,9,Canadian GP,Circuit Gilles Villeneuve,Canada,Lando Norris,McLaren,8,6,8,4.0,50,88.681,1,22.639,Finished,0.0,88.98,False,False,False
+2024,9,Canadian GP,Circuit Gilles Villeneuve,Canada,Logan Sargeant,Williams,9,10,4,12.0,56,88.192,3,23.424,Finished,5.0,90.236,False,False,False
+2024,9,Canadian GP,Circuit Gilles Villeneuve,Canada,Esteban Ocon,Alpine,10,11,7,6.0,50,88.96,2,26.681,Finished,3.0,90.418,False,False,False
+2024,9,Canadian GP,Circuit Gilles Villeneuve,Canada,Pierre Gasly,Alpine,11,13,DNF,0.0,31,89.086,4,26.001,Mechanical,,91.053,True,False,False
+2024,9,Canadian GP,Circuit Gilles Villeneuve,Canada,Oscar Piastri,McLaren,12,14,16,0.0,53,88.662,0,0.0,Finished,-4.0,90.893,False,False,False
+2024,9,Canadian GP,Circuit Gilles Villeneuve,Canada,Nico Hulkenberg,Haas,13,15,12,0.0,60,90.513,2,23.549,Finished,1.0,91.383,False,False,False
+2024,9,Canadian GP,Circuit Gilles Villeneuve,Canada,Lance Stroll,Aston Martin,14,12,18,0.0,60,89.461,3,23.368,Finished,-4.0,90.524,False,False,False
+2024,9,Canadian GP,Circuit Gilles Villeneuve,Canada,Alex Albon,Williams,15,13,20,0.0,58,89.473,0,0.0,Finished,-5.0,91.215,False,False,False
+2024,9,Canadian GP,Circuit Gilles Villeneuve,Canada,Valtteri Bottas,Sauber,16,14,20,0.0,52,89.79,2,27.183,Finished,-4.0,91.035,False,False,False
+2024,9,Canadian GP,Circuit Gilles Villeneuve,Canada,Daniel Ricciardo,RB,17,15,19,0.0,58,88.578,1,22.973,Finished,-2.0,91.241,False,False,False
+2024,9,Canadian GP,Circuit Gilles Villeneuve,Canada,Kevin Magnussen,Haas,18,18,14,0.0,51,90.218,0,0.0,Finished,4.0,92.206,False,False,False
+2024,9,Canadian GP,Circuit Gilles Villeneuve,Canada,Yuki Tsunoda,RB,19,19,DNF,0.0,37,88.744,2,22.967,Mechanical,,92.237,True,False,False
+2024,9,Canadian GP,Circuit Gilles Villeneuve,Canada,Zhou Guanyu,Sauber,20,20,20,0.0,53,88.182,0,0.0,Finished,0.0,92.173,False,False,False
+2024,10,Spanish GP,Circuit de Barcelona-Catalunya,Spain,Lewis Hamilton,Mercedes,1,2,5,10.0,50,88.922,1,24.439,Finished,-4.0,88.031,False,False,False
+2024,10,Spanish GP,Circuit de Barcelona-Catalunya,Spain,Max Verstappen,Red Bull,2,2,2,18.0,55,87.014,4,27.697,Finished,0.0,88.58,False,True,False
+2024,10,Spanish GP,Circuit de Barcelona-Catalunya,Spain,Sergio Perez,Red Bull,3,2,1,25.0,55,89.245,2,23.389,Finished,2.0,88.462,False,True,True
+2024,10,Spanish GP,Circuit de Barcelona-Catalunya,Spain,Charles Leclerc,Ferrari,4,2,4,12.0,52,87.785,1,26.797,Finished,0.0,88.338,False,False,False
+2024,10,Spanish GP,Circuit de Barcelona-Catalunya,Spain,Oscar Piastri,McLaren,5,5,4,12.0,60,88.726,2,22.409,Finished,1.0,88.654,False,False,False
+2024,10,Spanish GP,Circuit de Barcelona-Catalunya,Spain,Fernando Alonso,Aston Martin,6,4,9,2.0,57,87.775,0,0.0,Finished,-3.0,88.823,False,False,False
+2024,10,Spanish GP,Circuit de Barcelona-Catalunya,Spain,George Russell,Mercedes,7,8,13,0.0,55,88.569,2,19.0,Finished,-6.0,89.511,False,False,False
+2024,10,Spanish GP,Circuit de Barcelona-Catalunya,Spain,Carlos Sainz,Ferrari,8,7,4,12.0,52,88.508,0,0.0,Finished,4.0,89.506,False,False,False
+2024,10,Spanish GP,Circuit de Barcelona-Catalunya,Spain,Lando Norris,McLaren,9,7,12,0.0,52,87.565,1,25.842,Finished,-3.0,89.384,False,False,False
+2024,10,Spanish GP,Circuit de Barcelona-Catalunya,Spain,Lance Stroll,Aston Martin,10,11,9,2.0,57,88.96,2,22.084,Finished,1.0,90.394,False,False,False
+2024,10,Spanish GP,Circuit de Barcelona-Catalunya,Spain,Valtteri Bottas,Sauber,11,12,2,18.0,55,89.98,1,22.101,Finished,9.0,90.931,False,True,False
+2024,10,Spanish GP,Circuit de Barcelona-Catalunya,Spain,Yuki Tsunoda,RB,12,10,14,0.0,57,90.3,1,20.542,Finished,-2.0,90.336,False,False,False
+2024,10,Spanish GP,Circuit de Barcelona-Catalunya,Spain,Pierre Gasly,Alpine,13,11,12,0.0,59,89.223,2,20.866,Finished,1.0,90.324,False,False,False
+2024,10,Spanish GP,Circuit de Barcelona-Catalunya,Spain,Logan Sargeant,Williams,14,14,13,0.0,54,89.283,0,0.0,Finished,1.0,91.192,False,False,False
+2024,10,Spanish GP,Circuit de Barcelona-Catalunya,Spain,Esteban Ocon,Alpine,15,14,14,0.0,50,87.947,0,0.0,Finished,1.0,90.986,False,False,False
+2024,10,Spanish GP,Circuit de Barcelona-Catalunya,Spain,Nico Hulkenberg,Haas,16,16,16,0.0,56,89.265,2,21.381,Finished,0.0,91.816,False,False,False
+2024,10,Spanish GP,Circuit de Barcelona-Catalunya,Spain,Alex Albon,Williams,17,17,11,0.0,53,88.86,0,0.0,Finished,6.0,91.792,False,False,False
+2024,10,Spanish GP,Circuit de Barcelona-Catalunya,Spain,Kevin Magnussen,Haas,18,18,14,0.0,52,88.391,2,21.139,Finished,4.0,91.699,False,False,False
+2024,10,Spanish GP,Circuit de Barcelona-Catalunya,Spain,Daniel Ricciardo,RB,19,20,20,0.0,59,88.186,1,22.763,Finished,-1.0,92.726,False,False,False
+2024,10,Spanish GP,Circuit de Barcelona-Catalunya,Spain,Zhou Guanyu,Sauber,20,18,20,0.0,55,88.268,1,22.786,Finished,0.0,92.138,False,False,False
+2024,11,Austrian GP,Red Bull Ring,Austria,Max Verstappen,Red Bull,1,1,4,12.0,59,87.011,0,0.0,Finished,-3.0,88.168,False,False,False
+2024,11,Austrian GP,Red Bull Ring,Austria,Sergio Perez,Red Bull,2,3,7,6.0,54,88.228,0,0.0,Finished,-5.0,88.634,False,False,False
+2024,11,Austrian GP,Red Bull Ring,Austria,Lewis Hamilton,Mercedes,3,3,6,8.0,58,86.837,4,25.597,Finished,-3.0,88.469,False,False,False
+2024,11,Austrian GP,Red Bull Ring,Austria,Carlos Sainz,Ferrari,4,3,2,18.0,58,89.165,2,21.737,Finished,2.0,88.289,False,True,False
+2024,11,Austrian GP,Red Bull Ring,Austria,George Russell,Mercedes,5,7,4,12.0,54,87.154,0,0.0,Finished,1.0,89.917,False,False,False
+2024,11,Austrian GP,Red Bull Ring,Austria,Fernando Alonso,Aston Martin,6,4,10,1.0,59,88.554,2,24.974,Finished,-4.0,88.765,False,False,False
+2024,11,Austrian GP,Red Bull Ring,Austria,Charles Leclerc,Ferrari,7,9,6,8.0,58,86.815,0,0.0,Finished,1.0,90.219,False,False,False
+2024,11,Austrian GP,Red Bull Ring,Austria,Oscar Piastri,McLaren,8,8,15,0.0,52,88.326,2,25.36,Finished,-7.0,89.622,False,False,False
+2024,11,Austrian GP,Red Bull Ring,Austria,Esteban Ocon,Alpine,9,10,7,6.0,56,88.772,2,23.122,Finished,2.0,89.939,False,False,False
+2024,11,Austrian GP,Red Bull Ring,Austria,Pierre Gasly,Alpine,10,10,4,12.0,55,88.434,3,21.853,Finished,6.0,90.296,False,False,False
+2024,11,Austrian GP,Red Bull Ring,Austria,Alex Albon,Williams,11,10,17,0.0,56,88.655,0,0.0,Finished,-6.0,90.226,False,False,False
+2024,11,Austrian GP,Red Bull Ring,Austria,Daniel Ricciardo,RB,12,12,17,0.0,56,88.234,2,26.169,Finished,-5.0,90.825,False,False,False
+2024,11,Austrian GP,Red Bull Ring,Austria,Lance Stroll,Aston Martin,13,12,14,0.0,57,88.494,1,21.974,Finished,-1.0,90.588,False,False,False
+2024,11,Austrian GP,Red Bull Ring,Austria,Lando Norris,McLaren,14,15,12,0.0,54,88.318,1,25.466,Finished,2.0,91.437,False,False,False
+2024,11,Austrian GP,Red Bull Ring,Austria,Valtteri Bottas,Sauber,15,16,14,0.0,56,88.825,3,20.603,Finished,1.0,91.676,False,False,False
+2024,11,Austrian GP,Red Bull Ring,Austria,Nico Hulkenberg,Haas,16,15,14,0.0,53,88.637,0,0.0,Finished,2.0,91.294,False,False,False
+2024,11,Austrian GP,Red Bull Ring,Austria,Zhou Guanyu,Sauber,17,16,20,0.0,51,90.26,0,0.0,Finished,-3.0,91.431,False,False,False
+2024,11,Austrian GP,Red Bull Ring,Austria,Yuki Tsunoda,RB,18,20,20,0.0,55,88.865,1,23.527,Finished,-2.0,92.297,False,False,False
+2024,11,Austrian GP,Red Bull Ring,Austria,Logan Sargeant,Williams,19,19,15,0.0,56,88.558,0,0.0,Finished,4.0,92.266,False,False,False
+2024,11,Austrian GP,Red Bull Ring,Austria,Kevin Magnussen,Haas,20,19,DNF,0.0,16,88.941,1,19.037,Mechanical,,92.384,True,False,False
+2024,12,British GP,Silverstone Circuit,UK,Max Verstappen,Red Bull,1,2,1,25.0,60,87.162,2,26.955,Finished,0.0,88.103,False,True,True
+2024,12,British GP,Silverstone Circuit,UK,Oscar Piastri,McLaren,2,2,1,25.0,50,89.873,2,20.317,Finished,1.0,88.618,False,True,True
+2024,12,British GP,Silverstone Circuit,UK,Charles Leclerc,Ferrari,3,1,8,4.0,50,88.613,1,23.364,Finished,-5.0,88.273,False,False,False
+2024,12,British GP,Silverstone Circuit,UK,Carlos Sainz,Ferrari,4,5,1,25.0,58,88.011,1,24.116,Finished,3.0,88.853,False,True,True
+2024,12,British GP,Silverstone Circuit,UK,Lewis Hamilton,Mercedes,5,6,4,12.0,57,88.58,1,22.953,Finished,1.0,89.503,False,False,False
+2024,12,British GP,Silverstone Circuit,UK,Pierre Gasly,Alpine,6,6,1,25.0,52,87.578,3,24.869,Finished,5.0,89.388,False,True,True
+2024,12,British GP,Silverstone Circuit,UK,Lando Norris,McLaren,7,7,3,15.0,59,88.124,0,0.0,Finished,4.0,89.604,False,True,False
+2024,12,British GP,Silverstone Circuit,UK,Fernando Alonso,Aston Martin,8,8,9,2.0,50,88.065,0,0.0,Finished,-1.0,90.133,False,False,False
+2024,12,British GP,Silverstone Circuit,UK,Sergio Perez,Red Bull,9,9,12,0.0,52,87.47,2,22.931,Finished,-3.0,90.186,False,False,False
+2024,12,British GP,Silverstone Circuit,UK,George Russell,Mercedes,10,9,8,4.0,53,87.647,0,0.0,Finished,2.0,90.288,False,False,False
+2024,12,British GP,Silverstone Circuit,UK,Daniel Ricciardo,RB,11,9,13,0.0,55,88.795,2,25.007,Finished,-2.0,89.899,False,False,False
+2024,12,British GP,Silverstone Circuit,UK,Esteban Ocon,Alpine,12,14,11,0.0,50,89.146,1,28.064,Finished,1.0,90.919,False,False,False
+2024,12,British GP,Silverstone Circuit,UK,Alex Albon,Williams,13,11,7,6.0,60,88.747,1,23.478,Finished,6.0,90.496,False,False,False
+2024,12,British GP,Silverstone Circuit,UK,Logan Sargeant,Williams,14,13,13,0.0,55,88.029,2,23.553,Finished,1.0,90.632,False,False,False
+2024,12,British GP,Silverstone Circuit,UK,Nico Hulkenberg,Haas,15,16,14,0.0,53,88.813,2,25.486,Finished,1.0,91.442,False,False,False
+2024,12,British GP,Silverstone Circuit,UK,Zhou Guanyu,Sauber,16,18,12,0.0,50,88.139,1,27.66,Finished,4.0,91.672,False,False,False
+2024,12,British GP,Silverstone Circuit,UK,Valtteri Bottas,Sauber,17,19,17,0.0,50,89.054,1,25.622,Finished,0.0,91.699,False,False,False
+2024,12,British GP,Silverstone Circuit,UK,Yuki Tsunoda,RB,18,17,20,0.0,59,88.848,0,0.0,Finished,-2.0,91.577,False,False,False
+2024,12,British GP,Silverstone Circuit,UK,Kevin Magnussen,Haas,19,17,20,0.0,54,89.82,1,24.839,Finished,-1.0,91.902,False,False,False
+2024,12,British GP,Silverstone Circuit,UK,Lance Stroll,Aston Martin,20,19,DNF,0.0,25,89.791,1,22.502,Mechanical,,92.186,True,False,False
